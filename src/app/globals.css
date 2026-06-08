@@ -1,26 +1,333 @@
 @import "tailwindcss";
 
+/* ─── Design Tokens ─── */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* Brand — Islamic green meets galaxy */
+  --brand-primary:     #00c896;
+  --brand-primary-dim: #009e78;
+  --brand-secondary:   #1da0cf;
+  --brand-gold:        #f7c948;
+  --brand-accent:      #a855f7;
+
+  /* Backgrounds — deep space-forest */
+  --bg-base:     #030d08;
+  --bg-surface:  #061410;
+  --bg-card:     #091c12;
+  --bg-elevated: #0f2a1a;
+  --bg-hover:    #163824;
+
+  /* Borders */
+  --border-faint:   rgba(0, 200, 150, 0.07);
+  --border-subtle:  rgba(0, 200, 150, 0.14);
+  --border-default: rgba(0, 200, 150, 0.22);
+  --border-bright:  rgba(0, 200, 150, 0.42);
+
+  /* Text */
+  --text-primary:   #e2f0ec;
+  --text-secondary: #8ab4a0;
+  --text-muted:     #3d7060;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+/* ─── Light Theme ─── */
+html.light {
+  color-scheme: light;
+
+  /* Brand — more vibrant/saturated for light backgrounds */
+  --brand-primary:     #10b981;
+  --brand-primary-dim: #059669;
+  --brand-secondary:   #0ea5e9;
+  --brand-gold:        #f59e0b;
+  --brand-accent:      #8b5cf6;
+
+  /* Semi-transparent backgrounds to show color blobs through */
+  --bg-base:     transparent;
+  --bg-surface:  rgba(255, 255, 255, 0.74);
+  --bg-card:     rgba(255, 255, 255, 0.68);
+  --bg-elevated: rgba(236, 253, 245, 0.65);
+  --bg-hover:    rgba(187, 247, 208, 0.60);
+
+  /* Borders — neutral so they work on any color blob */
+  --border-faint:   rgba(0, 0, 0, 0.06);
+  --border-subtle:  rgba(0, 0, 0, 0.10);
+  --border-default: rgba(0, 0, 0, 0.16);
+  --border-bright:  rgba(0, 0, 0, 0.28);
+
+  /* Text */
+  --text-primary:   #0c1a12;
+  --text-secondary: #1a4530;
+  --text-muted:     #527a62;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+/* Colorful gradient + blobs on html element itself */
+html.light {
+  background:
+    radial-gradient(ellipse 85% 65% at  8%   4%,  rgba(110,231,183,0.82) 0%, transparent 58%),
+    radial-gradient(ellipse 75% 60% at 94%  12%,  rgba(125,211,252,0.75) 0%, transparent 58%),
+    radial-gradient(ellipse 70% 55% at 55%  92%,  rgba(253,230,138,0.68) 0%, transparent 62%),
+    radial-gradient(ellipse 65% 52% at 88%  78%,  rgba(196,181,253,0.62) 0%, transparent 58%),
+    radial-gradient(ellipse 60% 48% at 18%  68%,  rgba(252,165,165,0.48) 0%, transparent 58%),
+    radial-gradient(ellipse 55% 45% at 42%  35%,  rgba(167,243,208,0.35) 0%, transparent 55%),
+    #e8fdf2;
+  background-attachment: fixed;
 }
+
+html.light body {
+  background: transparent;
+  color: var(--text-primary);
+}
+
+/* Galaxy layer — invisible in light mode */
+html.light .galaxy-layer { display: none !important; }
+
+html { color-scheme: dark; }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--bg-base);
+  color: var(--text-primary);
 }
+
+/* ─── Scrollbar ─── */
+::-webkit-scrollbar { width: 4px; height: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgba(0,200,150,.22); border-radius: 99px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(0,200,150,.42); }
+
+/* ─── Keyframe Animations ─── */
+
+@keyframes grid-drift {
+  0%   { background-position: 0 0; }
+  100% { background-position: 44px 44px; }
+}
+
+/* Galaxy star twinkle */
+@keyframes star-twinkle {
+  0%,100% { opacity: 0.12; transform: scale(0.7); }
+  50%     { opacity: 1;    transform: scale(1.5); }
+}
+
+/* Shooting star */
+@keyframes shooting {
+  0%   { transform: translateX(-60px) translateY(30px); opacity: 0; }
+  8%   { opacity: 0.9; }
+  92%  { opacity: 0.4; }
+  100% { transform: translateX(540px) translateY(-270px); opacity: 0; }
+}
+
+/* Breathing nebula orbs */
+@keyframes orb-breathe {
+  0%,100% { transform: scale(1) translate(0,0);          opacity: .10; }
+  33%     { transform: scale(1.15) translate(18px,-14px); opacity: .17; }
+  66%     { transform: scale(.92) translate(-10px,9px);  opacity: .12; }
+}
+@keyframes orb-breathe-b {
+  0%,100% { transform: scale(1) translate(0,0);           opacity: .08; }
+  40%     { transform: scale(1.18) translate(-22px,16px); opacity: .15; }
+  70%     { transform: scale(.91) translate(13px,-10px);  opacity: .10; }
+}
+@keyframes orb-breathe-c {
+  0%,100% { transform: scale(1) translate(0,0);           opacity: .06; }
+  50%     { transform: scale(1.22) translate(10px,20px);  opacity: .11; }
+}
+
+/* Islamic crescent / gold glow */
+@keyframes crescent-glow {
+  0%,100% { opacity: 0.55; filter: drop-shadow(0 0 5px rgba(247,201,72,.38)); }
+  50%     { opacity: 0.95; filter: drop-shadow(0 0 18px rgba(247,201,72,.76)); }
+}
+
+/* Islamic geometric ring rotation */
+@keyframes geo-rotate {
+  to { transform: rotate(360deg); }
+}
+
+/* Thin scanline */
+@keyframes scan-line {
+  0%   { transform: translateY(-4px); opacity: 0; }
+  4%   { opacity: .5; }
+  96%  { opacity: .5; }
+  100% { transform: translateY(100vh); opacity: 0; }
+}
+
+/* Neon glow pulse */
+@keyframes glow-pulse {
+  0%,100% { box-shadow: 0 0 6px rgba(0,200,150,.28), 0 0 12px rgba(0,200,150,.10); }
+  50%     { box-shadow: 0 0 20px rgba(0,200,150,.58), 0 0 40px rgba(0,200,150,.20); }
+}
+
+/* Live dot pulse ring */
+@keyframes pulse-ring {
+  0%   { transform: scale(0.85); opacity: 0.8; }
+  100% { transform: scale(2.4);  opacity: 0; }
+}
+
+/* Entrance */
+@keyframes fade-in-up {
+  0%   { opacity: 0; transform: translateY(22px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+@keyframes float-up {
+  0%   { opacity: 0; transform: translateY(28px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+@keyframes fade-in {
+  0%   { opacity: 0; }
+  100% { opacity: 1; }
+}
+@keyframes slide-in-left {
+  0%   { opacity: 0; transform: translateX(-18px); }
+  100% { opacity: 1; transform: translateX(0); }
+}
+@keyframes count-enter {
+  0%   { opacity: 0; transform: translateY(8px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+/* Shimmer (skeleton) */
+@keyframes shimmer {
+  0%   { background-position: -600px 0; }
+  100% { background-position: 600px 0; }
+}
+
+/* Status dot blink */
+@keyframes blink-dot {
+  0%,100% { opacity: 1; }
+  50%     { opacity: .22; }
+}
+
+/* Slow rotation (spinning ring) */
+@keyframes spin-slow {
+  to { transform: rotate(360deg); }
+}
+
+/* Rising particles */
+@keyframes particle-rise {
+  0%   { transform: translateY(0) translateX(0); opacity: 0; }
+  10%  { opacity: .9; }
+  90%  { opacity: .4; }
+  100% { transform: translateY(-120px) translateX(12px); opacity: 0; }
+}
+
+/* ─── Animation Utilities ─── */
+.animate-fade-in-up    { animation: fade-in-up .55s ease-out both; }
+.animate-fade-in       { animation: fade-in .4s ease-out both; }
+.animate-float-up      { animation: float-up .6s ease-out both; }
+.animate-slide-left    { animation: slide-in-left .4s ease-out both; }
+.animate-glow-pulse    { animation: glow-pulse 2.5s ease-in-out infinite; }
+.animate-blink-dot     { animation: blink-dot 2.2s ease-in-out infinite; }
+.animate-spin-slow     { animation: spin-slow 7s linear infinite; }
+.animate-star-twinkle  { animation: star-twinkle var(--dur, 3s) var(--delay, 0s) ease-in-out infinite; }
+.animate-crescent-glow { animation: crescent-glow 3.8s ease-in-out infinite; }
+.animate-pulse-ring    { animation: pulse-ring 1.8s ease-out infinite; }
+.animate-count-enter   { animation: count-enter .5s ease-out both; }
+.animate-geo-rotate    { animation: geo-rotate 24s linear infinite; }
+
+/* ─── Glass Morphism ─── */
+.glass {
+  background: rgba(3, 15, 9, 0.84);
+  backdrop-filter: blur(22px) saturate(160%);
+  -webkit-backdrop-filter: blur(22px) saturate(160%);
+}
+.glass-card {
+  background: rgba(9, 28, 18, 0.92);
+  backdrop-filter: blur(18px) saturate(150%);
+  -webkit-backdrop-filter: blur(18px) saturate(150%);
+}
+
+/* ─── Skeleton Loader ─── */
+.skeleton {
+  background: linear-gradient(
+    90deg,
+    var(--bg-elevated) 0%,
+    rgba(0,200,150,.05) 50%,
+    var(--bg-elevated) 100%
+  );
+  background-size: 600px 100%;
+  animation: shimmer 1.7s infinite;
+  border-radius: 8px;
+}
+
+/* ─── Global Dark-Theme Overrides for Tailwind Utilities ─── */
+/* These ensure all existing page content looks correct on the dark bg */
+.bg-white            { background-color: var(--bg-card) !important; }
+.bg-slate-50         { background-color: var(--bg-elevated) !important; }
+.bg-slate-100        { background-color: var(--bg-elevated) !important; }
+.bg-slate-200        { background-color: var(--bg-hover) !important; }
+.border-slate-100    { border-color: var(--border-faint) !important; }
+.border-slate-200    { border-color: var(--border-subtle) !important; }
+.border-slate-300    { border-color: var(--border-default) !important; }
+.divide-slate-100 > * + * { border-color: var(--border-faint) !important; }
+.divide-slate-200 > * + * { border-color: var(--border-subtle) !important; }
+.text-slate-900,
+.text-slate-800      { color: var(--text-primary) !important; }
+.text-slate-700,
+.text-slate-600      { color: var(--text-secondary) !important; }
+.text-slate-500      { color: var(--text-muted) !important; }
+.text-slate-400      { color: var(--text-muted) !important; }
+.placeholder\:text-slate-400::placeholder { color: #2d4060 !important; }
+
+/* Ensure modal overlays are still dark */
+.bg-black\/50  { background-color: rgba(0,0,0,0.65) !important; }
+
+/* ─── Leaflet ─── */
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+  border-radius: 12px;
+  z-index: 0;
+}
+
+/* ─── Light Mode Overrides ─── */
+html.light .glass {
+  background: rgba(255, 255, 255, 0.68);
+  backdrop-filter: blur(28px) saturate(200%);
+  -webkit-backdrop-filter: blur(28px) saturate(200%);
+  box-shadow: 0 4px 24px rgba(0,0,0,0.07), 0 1px 4px rgba(0,0,0,0.04) !important;
+}
+html.light .glass-card {
+  background: rgba(255, 255, 255, 0.72);
+  backdrop-filter: blur(22px) saturate(180%);
+  -webkit-backdrop-filter: blur(22px) saturate(180%);
+}
+
+/* Card shadow override for light mode */
+html.light .animate-float-up {
+  box-shadow: 0 4px 20px rgba(0,0,0,0.07), 0 1px 6px rgba(0,0,0,0.04) !important;
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+}
+
+html.light .skeleton {
+  background: linear-gradient(90deg, rgba(255,255,255,0.6) 0%, rgba(255,255,255,0.9) 50%, rgba(255,255,255,0.6) 100%);
+  background-size: 600px 100%;
+}
+
+html.light ::-webkit-scrollbar-thumb { background: rgba(16,185,129,.28); }
+html.light ::-webkit-scrollbar-thumb:hover { background: rgba(16,185,129,.50); }
+
+/* Map placeholder — light version */
+html.light [data-map-bg] {
+  background: linear-gradient(135deg, #d1fae5 0%, #cffafe 100%) !important;
+  border-color: rgba(16,185,129,0.25) !important;
+}
+html.light [data-map-label] {
+  background: rgba(255,255,255,0.80) !important;
+  color: #059669 !important;
+  border-color: rgba(16,185,129,0.30) !important;
+}
+
+/* Light mode Tailwind overrides */
+html.light .bg-white            { background-color: rgba(255,255,255,0.82) !important; }
+html.light .bg-slate-50         { background-color: rgba(240,253,244,0.70) !important; }
+html.light .bg-slate-100        { background-color: rgba(220,252,231,0.65) !important; }
+html.light .bg-slate-200        { background-color: rgba(187,247,208,0.60) !important; }
+html.light .border-slate-100    { border-color: rgba(0,0,0,0.07) !important; }
+html.light .border-slate-200    { border-color: rgba(0,0,0,0.12) !important; }
+html.light .text-slate-900,
+html.light .text-slate-800      { color: #0c1a12 !important; }
+html.light .text-slate-700,
+html.light .text-slate-600      { color: #1a4530 !important; }
+html.light .text-slate-500,
+html.light .text-slate-400      { color: #527a62 !important; }
+html.light .placeholder\:text-slate-400::placeholder { color: #7aaa8a !important; }
+
+
