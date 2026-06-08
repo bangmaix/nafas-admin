@@ -46,15 +46,20 @@ export default function LoginPage() {
       return;
     }
 
-    const supabase = createClient();
-    const { error: authError } = await supabase.auth.signInWithPassword({ email, password });
+    try {
+      const supabase = createClient();
+      const { error: authError } = await supabase.auth.signInWithPassword({ email, password });
 
-    if (authError) {
-      setError("Email atau password salah. Silakan coba lagi.");
+      if (authError) {
+        setError("Email atau password salah. Silakan coba lagi.");
+        setLoading(false);
+      } else {
+        router.push("/dashboard");
+        router.refresh();
+      }
+    } catch {
+      setError("Konfigurasi Supabase belum lengkap. Hubungi administrator.");
       setLoading(false);
-    } else {
-      router.push("/dashboard");
-      router.refresh();
     }
   };
 

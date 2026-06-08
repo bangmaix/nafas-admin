@@ -3,10 +3,35 @@ import { NextResponse, type NextRequest } from "next/server";
 
 export async function proxy(request: NextRequest) {
   let supabaseResponse = NextResponse.next({ request });
+  const pathname = request.nextUrl.pathname;
+  const isAuthPage = pathname === "/login";
+  const isApiRoute = pathname.startsWith("/api");
+  const isPublicAsset = pathname.startsWith("/_next") || pathname.startsWith("/favicon");
+
+  if (isApiRoute || isPublicAsset) {
+    return supabaseResponse;
+  }
+
+  const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
+  const supabaseAnonKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
+
+  if (!supabaseUrl || !supabaseAnonKey) {
+    console.error(
+      "[proxy] Missing NEXT_PUBLIC_SUPABASE_URL or NEXT_PUBLIC_SUPABASE_ANON_KEY"
+    );
+
+    if (!isAuthPage) {
+      const url = request.nextUrl.clone();
+      url.pathname = "/login";
+      return NextResponse.redirect(url);
+    }
+
+    return supabaseResponse;
+  }
 
   const supabase = createServerClient(
-    process.env.NEXT_PUBLIC_SUPABASE_URL!,
-    process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!,
+    supabaseUrl,
+    supabaseAnonKey,
     {
       cookies: {
         getAll() {
@@ -28,15 +53,6 @@ export async function proxy(request: NextRequest) {
   const {
     data: { user },
   } = await supabase.auth.getUser();
-
-  const pathname = request.nextUrl.pathname;
-  const isAuthPage = pathname === "/login";
-  const isApiRoute = pathname.startsWith("/api");
-  const isPublicAsset = pathname.startsWith("/_next") || pathname.startsWith("/favicon");
-
-  if (isApiRoute || isPublicAsset) {
-    return supabaseResponse;
-  }
 
   if (!user && !isAuthPage) {
     const url = request.nextUrl.clone();
