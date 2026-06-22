@@ -53,7 +53,7 @@ const NAV_SECTIONS: {
       { href: "/qr", label: "QR Code Masjid", icon: QrCode },
       { href: "/users", label: "Pengguna", icon: Users },
       { href: "#", label: "Keluarga & Komunitas", icon: Heart, disabled: true },
-      { href: "#", label: "Program & Kegiatan", icon: CalendarDays, disabled: true },
+      { href: "/programs", label: "Program & Kegiatan", icon: CalendarDays },
     ],
   },
   {

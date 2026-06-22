@@ -14,8 +14,10 @@ import {
   Star,
   CalendarCheck,
   Trophy,
+  Download,
 } from "lucide-react";
 import { formatDate, formatNumber } from "@/lib/utils";
+import { exportToCSV } from "@/lib/utils/export";
 
 interface UserProfile {
   id: string;
@@ -111,9 +113,20 @@ export default function UsersPage() {
             <option value="mosque_admin">Admin Masjid</option>
             <option value="jamaah">Jamaah</option>
           </select>
-          <span className="sm:ml-auto text-sm text-slate-500">
-            {formatNumber(total)} pengguna
-          </span>
+          <div className="sm:ml-auto flex items-center gap-3">
+            <span className="text-sm text-slate-500">
+              {formatNumber(total)} pengguna
+            </span>
+            <Button
+              variant="outline"
+              size="sm"
+              disabled={users.length === 0}
+              onClick={() => exportToCSV(users, `pengguna-${new Date().toISOString().split('T')[0]}.csv`)}
+            >
+              <Download size={14} className="mr-1.5" />
+              Ekspor
+            </Button>
+          </div>
         </div>
 
         <Card padding="none">
