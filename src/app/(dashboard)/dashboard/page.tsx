@@ -22,6 +22,7 @@ import {
 } from "lucide-react";
 import { formatNumber, getPrayerLabel } from "@/lib/utils";
 import { createServiceClient } from "@/lib/supabase/server";
+import { RealtimeAttendance } from "@/components/dashboard/RealtimeAttendance";
 
 /* ─── Types ─── */
 interface DashStat {
@@ -291,6 +292,7 @@ export default async function DashboardPage() {
 
   return (
     <div className="flex flex-col min-h-screen">
+      <RealtimeAttendance />
 
       {/* ── Sticky Page Header ── */}
       <header

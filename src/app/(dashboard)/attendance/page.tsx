@@ -12,8 +12,10 @@ import {
   Filter,
   ChevronLeft,
   ChevronRight,
+  Download,
 } from "lucide-react";
 import { formatDateTime, getPrayerLabel } from "@/lib/utils";
+import { exportToCSV } from "@/lib/utils/export";
 
 interface AttendanceRecord {
   id: string;
@@ -118,8 +120,19 @@ export default function AttendancePage() {
               <option value="geo">Geofence</option>
             </select>
           </div>
-          <div className="sm:ml-auto text-sm text-slate-500 self-center">
-            {total} total data
+          <div className="sm:ml-auto flex items-center gap-3">
+            <span className="text-sm text-slate-500">
+              {total} total data
+            </span>
+            <Button
+              variant="outline"
+              size="sm"
+              disabled={records.length === 0}
+              onClick={() => exportToCSV(records, `kehadiran-${new Date().toISOString().split('T')[0]}.csv`)}
+            >
+              <Download size={14} className="mr-1.5" />
+              Ekspor
+            </Button>
           </div>
         </div>
 

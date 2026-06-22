@@ -80,3 +80,18 @@ export interface ApiResponse<T> {
   error?: string;
   message?: string;
 }
+
+export interface Program {
+  id: string;
+  mosque_id: string;
+  title: string;
+  description: string | null;
+  date: string;
+  start_time: string;
+  end_time: string | null;
+  speaker: string | null;
+  category: string;
+  created_at: string;
+  updated_at: string;
+  mosques?: { name: string };
+}
