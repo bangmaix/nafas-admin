@@ -1,9 +1,23 @@
 import { NextRequest, NextResponse } from "next/server";
-import { createServiceClient } from "@/lib/supabase/server";
+import { createServiceClient, createClient } from "@/lib/supabase/server";
 import { type GeoJSONPolygon } from "@/types";
+import type { SupabaseClient } from "@supabase/supabase-js";
 
 interface RouteParams {
   params: Promise<{ id: string }>;
+}
+
+async function checkAdmin(supabase: SupabaseClient) {
+  const { data: { session } } = await supabase.auth.getSession();
+  if (!session) return false;
+
+  const { data: profile } = await supabase
+    .from("user_profiles")
+    .select("role")
+    .eq("id", session.user.id)
+    .single();
+
+  return profile?.role === "admin" || profile?.role === "mosque_admin";
 }
 
 /**
@@ -12,8 +26,13 @@ interface RouteParams {
  */
 export async function PATCH(req: NextRequest, { params }: RouteParams) {
   try {
+    const supabase = await createClient();
+    if (!(await checkAdmin(supabase))) {
+      return NextResponse.json({ success: false, error: "Unauthorized" }, { status: 401 });
+    }
+
     const { id } = await params;
-    const supabase = await createServiceClient();
+    const serviceClient = await createServiceClient();
     const body: { polygon: GeoJSONPolygon } = await req.json();
 
     if (!body.polygon || body.polygon.type !== "Polygon") {
@@ -27,7 +46,7 @@ export async function PATCH(req: NextRequest, { params }: RouteParams) {
     const ring = body.polygon.coordinates[0];
     const wkt = `POLYGON((${ring.map(([lng, lat]) => `${lng} ${lat}`).join(",")}))`;
 
-    const { data, error } = await supabase
+    const { data, error } = await serviceClient
       .from("mosques")
       .update({
         geofence_polygon: `SRID=4326;${wkt}`,
@@ -59,7 +78,7 @@ export async function PATCH(req: NextRequest, { params }: RouteParams) {
 export async function POST(req: NextRequest, { params }: RouteParams) {
   try {
     const { id } = await params;
-    const supabase = await createServiceClient();
+    const serviceClient = await createServiceClient();
     const body: { latitude: number; longitude: number } = await req.json();
 
     if (typeof body.latitude !== "number" || typeof body.longitude !== "number") {
@@ -70,7 +89,7 @@ export async function POST(req: NextRequest, { params }: RouteParams) {
     }
 
     // Query PostGIS ST_Contains
-    const { data, error } = await supabase.rpc("check_user_in_mosque_area", {
+    const { data, error } = await serviceClient.rpc("check_user_in_mosque_area", {
       p_mosque_id: id,
       p_latitude: body.latitude,
       p_longitude: body.longitude,
@@ -87,9 +106,10 @@ export async function POST(req: NextRequest, { params }: RouteParams) {
         mosque_id: id,
       },
     });
-  } catch {
+  } catch (err: unknown) {
+    const message = err instanceof Error ? err.message : "Gagal memvalidasi lokasi";
     return NextResponse.json(
-      { success: false, error: "Gagal memvalidasi lokasi" },
+      { success: false, error: message },
       { status: 500 }
     );
   }

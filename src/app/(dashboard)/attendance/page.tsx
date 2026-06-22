@@ -13,6 +13,7 @@ import {
   ChevronLeft,
   ChevronRight,
   Download,
+  Trash2,
 } from "lucide-react";
 import { formatDateTime, getPrayerLabel } from "@/lib/utils";
 import { exportToCSV } from "@/lib/utils/export";
@@ -36,6 +37,7 @@ export default function AttendancePage() {
   const [total, setTotal] = useState(0);
   const [page, setPage] = useState(1);
   const [loading, setLoading] = useState(true);
+  const [deleteLoading, setDeleteLoading] = useState<string | null>(null);
   const [search, setSearch] = useState("");
   const [prayerFilter, setPrayerFilter] = useState("");
   const [methodFilter, setMethodFilter] = useState("");
@@ -61,12 +63,23 @@ export default function AttendancePage() {
 
   useEffect(() => {
     fetchAttendance();
-  }, [fetchAttendance]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [page, prayerFilter, methodFilter]);
 
-  // Reset page on filter change
-  useEffect(() => {
-    setPage(1);
-  }, [prayerFilter, methodFilter]);
+  const handleDelete = async (id: string) => {
+    if (!confirm("Hapus data kehadiran ini? Poin jamaah tidak akan otomatis berkurang.")) return;
+    setDeleteLoading(id);
+    try {
+      const res = await fetch(`/api/v1/attendance/${id}`, { method: "DELETE" });
+      const json = await res.json();
+      if (!json.success) throw new Error(json.error);
+      fetchAttendance();
+    } catch (err: any) {
+      alert(err.message);
+    } finally {
+      setDeleteLoading(null);
+    }
+  };
 
   const totalPages = Math.ceil(total / PER_PAGE);
 
@@ -100,7 +113,7 @@ export default function AttendancePage() {
             <Filter size={15} className="text-slate-400 flex-shrink-0" />
             <select
               value={prayerFilter}
-              onChange={(e) => setPrayerFilter(e.target.value)}
+              onChange={(e) => { setPrayerFilter(e.target.value); setPage(1); }}
               className="text-sm border border-slate-200 rounded-xl px-3 py-2 bg-white focus:outline-none focus:ring-2 focus:ring-[#0d8c77] text-slate-700"
             >
               <option value="">Semua Shalat</option>
@@ -112,7 +125,7 @@ export default function AttendancePage() {
             </select>
             <select
               value={methodFilter}
-              onChange={(e) => setMethodFilter(e.target.value)}
+              onChange={(e) => { setMethodFilter(e.target.value); setPage(1); }}
               className="text-sm border border-slate-200 rounded-xl px-3 py-2 bg-white focus:outline-none focus:ring-2 focus:ring-[#0d8c77] text-slate-700"
             >
               <option value="">Semua Metode</option>
@@ -170,8 +183,11 @@ export default function AttendancePage() {
                     <th className="text-left px-4 py-3 text-xs font-semibold text-slate-500 uppercase tracking-wide">
                       Status
                     </th>
-                    <th className="text-right px-6 py-3 text-xs font-semibold text-slate-500 uppercase tracking-wide">
+                    <th className="px-4 py-3 text-xs font-semibold text-slate-500 uppercase tracking-wide text-right">
                       Poin
+                    </th>
+                    <th className="px-6 py-3 text-xs font-semibold text-slate-500 uppercase tracking-wide text-right">
+                      Aksi
                     </th>
                   </tr>
                 </thead>
@@ -219,8 +235,17 @@ export default function AttendancePage() {
                           {record.is_valid ? "Valid" : "Tidak Valid"}
                         </Badge>
                       </td>
-                      <td className="px-6 py-3.5 text-right font-bold text-[#0d8c77]">
+                      <td className="px-4 py-3.5 text-right font-bold text-[#0d8c77]">
                         +{record.points_earned}
+                      </td>
+                      <td className="px-6 py-3.5 text-right">
+                        <button
+                          onClick={() => handleDelete(record.id)}
+                          disabled={deleteLoading === record.id}
+                          className="p-1.5 hover:bg-red-50 rounded-lg text-slate-400 hover:text-red-500 transition-colors"
+                        >
+                          {deleteLoading === record.id ? <div className="w-3.5 h-3.5 border-2 border-red-500 border-t-transparent rounded-full animate-spin" /> : <Trash2 size={14} />}
+                        </button>
                       </td>
                     </tr>
                   ))}
