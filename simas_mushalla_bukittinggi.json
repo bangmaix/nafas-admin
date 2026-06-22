@@ -1,0 +1,4102 @@
+{
+  "metadata": {
+    "source": "SIMAS Kementerian Agama",
+    "source_url": "https://simas.kemenag.go.id/page/profilmushalla/3/73/0/2/1?page=1",
+    "crawled_at": "2026-06-22T05:58:07.607Z",
+    "filter": {
+      "profileType": "mushalla",
+      "provinsiId": "3",
+      "kabupatenId": "73",
+      "kecamatanId": "0",
+      "tipologiId": "2",
+      "keyword": "",
+      "delayMs": 250
+    },
+    "pages": 5,
+    "count": 89
+  },
+  "data": [
+    {
+      "simas_id": "02.1.03.17.03.000003",
+      "name": "DARUL WUSTHA",
+      "listing_address": "JL. M.Yamin, SH",
+      "latitude": -1.8014609294680355,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.03.000003",
+      "listing_page": 1,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "1985",
+      "address": "JL. M.Yamin, SH\nAur Birugo Tigo Baleh, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "192 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "117 m2",
+        "daya_tampung_jamaah": "80"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Pembangkit Listrik/Genset",
+        "Penyejuk Udara/AC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Kegiatan Hari Besar Islam"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/867/02.1.03.17.03.000003/Darul_Wustha_Aur_Kuning.jpg",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/867/02.1.03.17.03.000003/Darul_Wustha_Aur_Kuning.jpg",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.03.000005",
+      "name": "RIYADHUS SHALIHIIN",
+      "listing_address": "GG.CEMARA RT 01/RW 01",
+      "latitude": -0.3153370047436853,
+      "longitude": 100.3806296736002,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.03.000005",
+      "listing_page": 1,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "2011",
+      "address": "GG.CEMARA RT 01/RW 01\nAur Birugo Tigo Baleh, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "20",
+        "jumlah_imam": "3",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "150 m2",
+        "status_tanah": "Girik",
+        "luas_bangunan": "150 m2",
+        "daya_tampung_jamaah": "100"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Sound System dan Multimedia",
+        "Ruang Belajar (TPA/Madrasah)",
+        "Gudang",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan kegiatan pendidikan (TPA, Madrasah, Pusat Kegiatan Belajar Masyarakat)"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/867/02.1.03.17.03.000005/Riyadhus_Shalihin.jpg",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/867/02.1.03.17.03.000005/Riyadhus_Shalihin.jpg",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.03.000006",
+      "name": "DARUSSALAM",
+      "listing_address": "JL.Prof.M.Yamin, SH no.01",
+      "latitude": -0.3181995485657704,
+      "longitude": 100.38541674613953,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.03.000006",
+      "listing_page": 1,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "1999",
+      "address": "JL.Prof.M.Yamin, SH No.01\nAur Birugo Tigo Baleh, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "100 m2",
+        "status_tanah": "Girik",
+        "luas_bangunan": "90 m2",
+        "daya_tampung_jamaah": "110"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Perlengkapan Pengurusan Jenazah",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/867/02.1.03.17.03.000006/Darussalam_Aur_Kuning.jpg",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/867/02.1.03.17.03.000006/Darussalam_Aur_Kuning.jpg",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000022",
+      "name": "HOTEL CAMPAGO",
+      "listing_address": "Inkorba",
+      "latitude": -1.8014609294680355,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000022",
+      "listing_page": 1,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "2005",
+      "address": "Inkorba\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "60 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000024",
+      "name": "RM DANGAU GON RAYA LAMA",
+      "listing_address": "Jl.By Pass Anak Air",
+      "latitude": -1.8014609294680355,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000024",
+      "listing_page": 1,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "2007",
+      "address": "Jl.By Pass Anak Air\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "30 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000026",
+      "name": "AL-IKHLAS",
+      "listing_address": "Jl.Pintu Kabun",
+      "latitude": -1.8014609294680355,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000026",
+      "listing_page": 1,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.Pintu Kabun\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000029",
+      "name": "JABAL NUR",
+      "listing_address": "Jl.Bukit Umpang Umpang",
+      "latitude": -1.8014609294680355,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000029",
+      "listing_page": 1,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.Bukit Umpang Umpang\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000031",
+      "name": "AL-IKHLAS",
+      "listing_address": "Jl.Kirab Remaja",
+      "latitude": -1.8014609294680355,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000031",
+      "listing_page": 1,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.Kirab Remaja\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000032",
+      "name": "ASH-SHABIRIN",
+      "listing_address": "Jl.Kirab Remaja",
+      "latitude": -1.8014609294680355,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000032",
+      "listing_page": 1,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.Kirab Remaja\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000033",
+      "name": "BAITURRAHMAN",
+      "listing_address": "Jl.Pemuda",
+      "latitude": -1.8014609294680355,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000033",
+      "listing_page": 1,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.Pemuda\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000035",
+      "name": "AL-MUNAWWARAH",
+      "listing_address": "Jl.Kampung Pulasan",
+      "latitude": -1.8014609294680355,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000035",
+      "listing_page": 1,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.Kampung Pulasan\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000037",
+      "name": "AL-HUDA",
+      "listing_address": "Jl.Kusuma Bhakti",
+      "latitude": -1.8014609294680355,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000037",
+      "listing_page": 1,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.Kusuma Bhakti\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000038",
+      "name": "NURUL IKHLAS",
+      "listing_address": "Jl.Kubu Ateh",
+      "latitude": -1.8014609294680355,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000038",
+      "listing_page": 1,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.Kubu Ateh\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000040",
+      "name": "NURUL QARYAH",
+      "listing_address": "Jl.Bahder Jhohan",
+      "latitude": -1.8014609294680355,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000040",
+      "listing_page": 1,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.Bahder Jhohan\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000045",
+      "name": "BAITURRAHIM",
+      "listing_address": "Jl.Guguak Bulek",
+      "latitude": -1.8014609294680355,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000045",
+      "listing_page": 1,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.Guguak Bulek\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000046",
+      "name": "SURAU LURAH",
+      "listing_address": "Jl.Abdul Manan",
+      "latitude": -1.8014609294680355,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000046",
+      "listing_page": 1,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.Abdul Manan\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000051",
+      "name": "AL-AKKABAH",
+      "listing_address": "Jl.Simp.By Pass Lakuang",
+      "latitude": -1.8014609294680355,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000051",
+      "listing_page": 1,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.Simp.By Pass Lakuang\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000054",
+      "name": "TAUFIQ",
+      "listing_address": "Jl.Koto Dalam",
+      "latitude": -1.8014609294680355,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000054",
+      "listing_page": 1,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.Koto Dalam\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000056",
+      "name": "MUKHLISHIN",
+      "listing_address": "Kompl.Cendana",
+      "latitude": -1.8014609294680355,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000056",
+      "listing_page": 1,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Kompl.Cendana\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000058",
+      "name": "BAWAH HILIR",
+      "listing_address": "Jl.Bawah Hilir",
+      "latitude": -1.8014609294680355,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000058",
+      "listing_page": 1,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.Bawah Hilir\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000061",
+      "name": "AL- FAQIH",
+      "listing_address": "Jl. Guguak Randah",
+      "latitude": -1.8014609294680355,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000061",
+      "listing_page": 2,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl. Guguak Randah\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000064",
+      "name": "BAITUL MAKMUR",
+      "listing_address": "Ga. Melur Komp Makmur",
+      "latitude": -1.8014609294680355,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000064",
+      "listing_page": 2,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Ga. Melur Komp Makmur\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000065",
+      "name": "SURAU LAKANG",
+      "listing_address": "Jl. Mr. Assaad",
+      "latitude": -1.8014609294680355,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000065",
+      "listing_page": 2,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl. Mr. Assaad\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000068",
+      "name": "NURUL YAQIN",
+      "listing_address": "Komplek Asrama Polisi",
+      "latitude": -1.8014609294680355,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000068",
+      "listing_page": 2,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Komplek Asrama Polisi\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000070",
+      "name": "AL-ANSHAR",
+      "listing_address": "Jl.Panorama Baru",
+      "latitude": -1.8014609294680355,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000070",
+      "listing_page": 2,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.Panorama Baru\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000071",
+      "name": "HAQQUL KHAAFI",
+      "listing_address": "Jl.Panorama Baru",
+      "latitude": -1.8014609294680355,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000071",
+      "listing_page": 2,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.Panorama Baru\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000073",
+      "name": "AL-IKHLAS",
+      "listing_address": "Jl.Panganak",
+      "latitude": -1.8014609294680355,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000073",
+      "listing_page": 2,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.Panganak\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000075",
+      "name": "AN-NUR",
+      "listing_address": "Jl.Perum Pulai Indah Permai",
+      "latitude": -1.8014609294680355,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000075",
+      "listing_page": 2,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.Perum Pulai Indah Permai\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.01.000006",
+      "name": "AL-IKHLAS",
+      "listing_address": "Belakang DA MuliaTarok Dipo",
+      "latitude": -0.314758659188001,
+      "longitude": 100.37854344682694,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.01.000006",
+      "listing_page": 2,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "1992",
+      "address": "Belakang DA MuliaTarok Dipo\nGuguak Panjang, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "189 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "189 m2",
+        "daya_tampung_jamaah": "50"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Pengajian Rutin"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.01.000012",
+      "name": "ISTIQAMAH",
+      "listing_address": "Jl. M,Yamin SH,Samping Dinas Kesehatan Kesehatan",
+      "latitude": -0.31473116696040454,
+      "longitude": 100.38364098505974,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.01.000012",
+      "listing_page": 2,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "2010",
+      "address": "Jl. M,Yamin SH,Samping Dinas Kesehatan Kesehatan\nGuguak Panjang, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "10"
+      },
+      "profile": {
+        "luas_tanah": "100 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "100 m2",
+        "daya_tampung_jamaah": "50"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Pengajian Rutin",
+        "Pemberdayaan Zakat, Infaq, Shodaqoh dan Wakaf"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.01.000019",
+      "name": "ALFALLAH",
+      "listing_address": "Pertanian ATTS",
+      "latitude": -0.3026644220216367,
+      "longitude": 100.374785810709,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.01.000019",
+      "listing_page": 2,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "1956",
+      "address": "Pertanian ATTS\nGuguak Panjang, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "15"
+      },
+      "profile": {
+        "luas_tanah": "270 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "252 m2",
+        "daya_tampung_jamaah": "50"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Penyejuk Udara/AC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Pengajian Rutin"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.03.000014",
+      "name": "BAIRURRAHIM",
+      "listing_address": "Jalan Abdul Hafidz Djalil, Tarok Bungo Bukittinggi",
+      "latitude": -0.95508,
+      "longitude": 100.36955,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.03.000014",
+      "listing_page": 2,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "1998",
+      "address": "Jalan Abdul Hafidz Djalil, Tarok Bungo Bukittinggi\nAur Birugo Tigo Baleh, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "6",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "152 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "96 m2",
+        "daya_tampung_jamaah": "120"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Gudang",
+        "Taman",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.03.000017",
+      "name": "AN-NUR PLN",
+      "listing_address": "Komplek PLN Belakang Balok",
+      "latitude": -0.95508,
+      "longitude": 100.36955,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.03.000017",
+      "listing_page": 2,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "1971",
+      "address": "Komplek PLN Belakang Balok\nAur Birugo Tigo Baleh, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "20",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "1"
+      },
+      "profile": {
+        "luas_tanah": "150 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "90 m2",
+        "daya_tampung_jamaah": "120"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC",
+        "Gudang",
+        "Taman",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.03.000019",
+      "name": "NURUL BILAD",
+      "listing_address": "Jalan Bermawi St. Rajo Ameh Bukittinggi",
+      "latitude": -0.95508,
+      "longitude": 100.36955,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.03.000019",
+      "listing_page": 2,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "1988",
+      "address": "Jalan Bermawi St. Rajo Ameh Bukittinggi\nAur Birugo Tigo Baleh, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "208 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "144 m2",
+        "daya_tampung_jamaah": "100"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Ruang Belajar (TPA/Madrasah)",
+        "Gudang",
+        "Taman"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.03.000021",
+      "name": "AL-MUKMININ JL. BERMAWI",
+      "listing_address": "Jalan Bermawi ST. Rajo Ameh Bukittinggi",
+      "latitude": -1.8014609294680355,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.03.000021",
+      "listing_page": 2,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "1992",
+      "address": "Jalan Bermawi ST. Rajo Ameh Bukittinggi\nAur Birugo Tigo Baleh, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "140 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "72 m2",
+        "daya_tampung_jamaah": "30"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Ruang Belajar (TPA/Madrasah)",
+        "Gudang",
+        "Taman",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.03.000022",
+      "name": "HASANATUDDIN",
+      "listing_address": "Pakan Labuah Kec. ABTB Bukittinggi",
+      "latitude": -1.8014609294680355,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.03.000022",
+      "listing_page": 2,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "1982",
+      "address": "Pakan Labuah Kec. ABTB Bukittinggi\nAur Birugo Tigo Baleh, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "4",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "120 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "110 m2",
+        "daya_tampung_jamaah": "200"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Gudang",
+        "Taman",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Kegiatan Hari Besar Islam"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.03.000013",
+      "name": "SURAU PARIT ANTANG",
+      "listing_address": "Kelurahan Parit Antang",
+      "latitude": -0.95508,
+      "longitude": 100.36955,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.03.000013",
+      "listing_page": 2,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "1970",
+      "address": "Kelurahan Parit Antang\nAur Birugo Tigo Baleh, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "20"
+      },
+      "profile": {
+        "luas_tanah": "363 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "182 m2",
+        "daya_tampung_jamaah": "90"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC",
+        "Gudang",
+        "Taman",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.03.000024",
+      "name": "ARAFAH",
+      "listing_address": "Ikua Labuah Jln. Kurai Kel. Parit Antang Bukittinggi",
+      "latitude": -1.8014609294680355,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.03.000024",
+      "listing_page": 2,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "1980",
+      "address": "Ikua Labuah Jln. Kurai Kel. Parit Antang Bukittinggi\nAur Birugo Tigo Baleh, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "17",
+        "jumlah_imam": "2",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "363 m2",
+        "status_tanah": "Girik",
+        "luas_bangunan": "204 m2",
+        "daya_tampung_jamaah": "100"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC",
+        "Gudang",
+        "Taman",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Pengajian Rutin"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.03.000023",
+      "name": "SURAU BALAI BANYAK",
+      "listing_address": "Jalan Kurai Balai Banyak Bukittinggi",
+      "latitude": -1.8014609294680355,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.03.000023",
+      "listing_page": 2,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "1930",
+      "address": "Jalan Kurai Balai Banyak Bukittinggi\nAur Birugo Tigo Baleh, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "20",
+        "jumlah_imam": "2",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "860 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "200 m2",
+        "daya_tampung_jamaah": "300"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC",
+        "Ruang Belajar (TPA/Madrasah)",
+        "Gudang",
+        "Taman",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Pengajian Rutin"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.03.000026",
+      "name": "ISTIQAMAH LADANG CAKIAH",
+      "listing_address": "Jl. SUmua Ladang Cakiah Bukittinggi",
+      "latitude": -1.8014609294680355,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.03.000026",
+      "listing_page": 2,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "1994",
+      "address": "Jl. SUmua Ladang Cakiah Bukittinggi\nAur Birugo Tigo Baleh, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "10",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "700 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "280 m2",
+        "daya_tampung_jamaah": "600"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Perlengkapan Pengurusan Jenazah",
+        "Ruang Belajar (TPA/Madrasah)",
+        "Tempat Penitipan Sepatu/Sandal",
+        "Gudang",
+        "Taman",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Pengajian Rutin"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.01.000028",
+      "name": "AL-WADI",
+      "listing_address": "Ateh Ngarai",
+      "latitude": -0.30762327595666,
+      "longitude": 100.36039197795,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.01.000028",
+      "listing_page": 3,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "2000",
+      "address": "Ateh Ngarai\nGuguak Panjang, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "40 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "80 m2",
+        "daya_tampung_jamaah": "50"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia"
+      ],
+      "activities": [],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.01.000026",
+      "name": "KAUM IBU",
+      "listing_address": "Pasar Bawah",
+      "latitude": -0.30249764718312,
+      "longitude": 100.37172699325,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.01.000026",
+      "listing_page": 3,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "1986",
+      "address": "Pasar Bawah\nGuguak Panjang, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "325 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "325 m2",
+        "daya_tampung_jamaah": "75"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia"
+      ],
+      "activities": [],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.01.000025",
+      "name": "RAHMAT",
+      "listing_address": "Pasar Bawah",
+      "latitude": -0.30248709383352,
+      "longitude": 100.37172532752,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.01.000025",
+      "listing_page": 3,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "1931",
+      "address": "Pasar Bawah\nGuguak Panjang, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "325 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "325 m2",
+        "daya_tampung_jamaah": "75"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia"
+      ],
+      "activities": [],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.01.000022",
+      "name": "BAITUL JALIL",
+      "listing_address": "Jenjang 40 kel. Aur Tajungkang Tengah Sawah",
+      "latitude": -0.30269210462478,
+      "longitude": 100.37076139801,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.01.000022",
+      "listing_page": 3,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "204",
+      "address": "Jenjang 40 Kel. Aur Tajungkang Tengah Sawah\nGuguak Panjang, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "5",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "120 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "96 m2",
+        "daya_tampung_jamaah": "75"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC",
+        "Kantor Sekretariat",
+        "Taman"
+      ],
+      "activities": [],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.01.000021",
+      "name": "GONJONG",
+      "listing_address": "Aur Tajungkang",
+      "latitude": -0.3043778493347,
+      "longitude": 100.37195229881,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.01.000021",
+      "listing_page": 3,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "1985",
+      "address": "Aur Tajungkang\nGuguak Panjang, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "5",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "143 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "143 m2",
+        "daya_tampung_jamaah": "100"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC",
+        "Ruang Belajar (TPA/Madrasah)"
+      ],
+      "activities": [],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/865/02.1.03.17.01.000021/fcaf4a8b138c2d74a0d1625e994a6ebf.jpg",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/865/02.1.03.17.01.000021/fcaf4a8b138c2d74a0d1625e994a6ebf.jpg",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.01.000034",
+      "name": "ATEH LURAH",
+      "listing_address": "Jl. Ateh Lurah , Guguak Panjang, KOTA BUKITTINGGI, SUMATERA BARAT",
+      "latitude": -0.31338103326012,
+      "longitude": 100.38057669997,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.01.000034",
+      "listing_page": 3,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "1980",
+      "address": "Jl. Ateh Lurah , Guguak Panjang, KOTA BUKITTINGGI, SUMATERA BARAT\nGuguak Panjang, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "12"
+      },
+      "profile": {
+        "luas_tanah": "150 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "120 m2",
+        "daya_tampung_jamaah": "40"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Pengajian Rutin",
+        "Pemberdayaan Zakat, Infaq, Shodaqoh dan Wakaf"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.01.000018",
+      "name": "THAIYYIBAH",
+      "listing_address": "Sawah Paduan",
+      "latitude": -0.3019844915018,
+      "longitude": 100.37629589438,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.01.000018",
+      "listing_page": 3,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "1996",
+      "address": "Sawah Paduan\nGuguak Panjang, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "15"
+      },
+      "profile": {
+        "luas_tanah": "400 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "400 m2",
+        "daya_tampung_jamaah": "50"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Pengajian Rutin"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/865/02.1.03.17.01.000018/dcce60833b70660131ea8669dbd3f95b.jpg",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/865/02.1.03.17.01.000018/4c6cf6ec0b0a6f9d8d5fae11dda83f88.jpg",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/865/02.1.03.17.01.000018/dcce60833b70660131ea8669dbd3f95b.jpg",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/865/02.1.03.17.01.000018/4c6cf6ec0b0a6f9d8d5fae11dda83f88.jpg",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000076",
+      "name": "AL-HIDAYAH",
+      "listing_address": "Komplek SD 07",
+      "latitude": -1.801460929468,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000076",
+      "listing_page": 3,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Komplek SD 07\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC",
+        "Perlengkapan Pengurusan Jenazah",
+        "Ruang Belajar (TPA/Madrasah)",
+        "Tempat Penitipan Sepatu/Sandal",
+        "Gudang",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Pengajian Rutin"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000076/0fc95634962fac7dc12c70a29e506872.jpg",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000076/0fc95634962fac7dc12c70a29e506872.jpg",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000072",
+      "name": "KHALILUL RAHMAN",
+      "listing_address": "Jl.Panganak",
+      "latitude": -1.801460929468,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000072",
+      "listing_page": 3,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.Panganak\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000072/a733ee8e6356583302f2fa6d0828921a.jpg",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000072/a733ee8e6356583302f2fa6d0828921a.jpg",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000027",
+      "name": "ASMAUL HUSNA",
+      "listing_address": "Jl.Panganak",
+      "latitude": -1.801460929468,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000027",
+      "listing_page": 3,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.Panganak\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000027/79faa34d8d0f4fe9ea849f25b078aef4.jpg",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000027/79faa34d8d0f4fe9ea849f25b078aef4.jpg",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000028",
+      "name": "IRSYADUL HIDAYAH",
+      "listing_address": "Jl.Panganak",
+      "latitude": -1.801460929468,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000028",
+      "listing_page": 3,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.Panganak\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "1",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000028/c390d44b9b1741236106d3c2b48d26e3.jpg",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000028/c390d44b9b1741236106d3c2b48d26e3.jpg",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000030",
+      "name": "BAITUL KHALIQ",
+      "listing_address": "Jl.Panorama Baru",
+      "latitude": -1.801460929468,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000030",
+      "listing_page": 3,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.Panorama Baru\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000030/5efd8700717b7db09f9a56fd82116c4a.jpg",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000030/5efd8700717b7db09f9a56fd82116c4a.jpg",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000063",
+      "name": "AN-NUR",
+      "listing_address": "Jl. Pabidikan Panorama Baru",
+      "latitude": -1.801460929468,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000063",
+      "listing_page": 3,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl. Pabidikan Panorama Baru\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Penyejuk Udara/AC",
+        "Gudang",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Pengajian Rutin"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000063/92b54f1eb1a62530de6af89f724111ef.jpg",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000063/92b54f1eb1a62530de6af89f724111ef.jpg",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000042",
+      "name": "NURUL IMAN",
+      "listing_address": "Jl.H.Miskin",
+      "latitude": -1.801460929468,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000042",
+      "listing_page": 3,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.H.Miskin\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "1",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000042/4e38943efefd21a6e4e131a876f737cc.jpg",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000042/4e38943efefd21a6e4e131a876f737cc.jpg",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000043",
+      "name": "BAITUL JANNAH",
+      "listing_address": "Jl.S.Hatta",
+      "latitude": -1.801460929468,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000043",
+      "listing_page": 3,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.S.Hatta\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000043/c971c7554e5662f30e8c4e344169bc5b.jpg",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000043/c971c7554e5662f30e8c4e344169bc5b.jpg",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000044",
+      "name": "NURUL IMAN",
+      "listing_address": "Jl.Jangkak",
+      "latitude": -1.801460929468,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000044",
+      "listing_page": 3,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.Jangkak\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Gudang",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Pengajian Rutin"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000044/01c3b18337f08a505034dcfa2eb3ff7b.jpg",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000044/01c3b18337f08a505034dcfa2eb3ff7b.jpg",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000049",
+      "name": "AL-MAWARIS",
+      "listing_address": "Kompl.Hotel Pusako",
+      "latitude": -1.801460929468,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000049",
+      "listing_page": 3,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Kompl.Hotel Pusako\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000049/ff333ed46ce6f8852c5d4e4b98d94ffd.jpg",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000049/ff333ed46ce6f8852c5d4e4b98d94ffd.jpg",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000057",
+      "name": "AL-QASIM",
+      "listing_address": "Jl.Nj.Dt.Mangkuto Ameh",
+      "latitude": -1.801460929468,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000057",
+      "listing_page": 3,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.Nj.Dt.Mangkuto Ameh\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000057/ba54157c35d8a126255b9f03ea2f230b.jpg",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000057/ba54157c35d8a126255b9f03ea2f230b.jpg",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000059",
+      "name": "NURUL HIDAYAH",
+      "listing_address": "Jl. PDRI",
+      "latitude": -1.801460929468,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000059",
+      "listing_page": 3,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl. PDRI\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Gudang",
+        "Taman"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000059/09937f60357680fe1f8d5a695c1808e1.jpg",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000059/09937f60357680fe1f8d5a695c1808e1.jpg",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000074",
+      "name": "MUSLIMIN",
+      "listing_address": "Komplek Pusido Inkorba",
+      "latitude": -1.801460929468,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000074",
+      "listing_page": 3,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Komplek Pusido Inkorba\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000074/03922cc9e334a0ff238f6704230fd0ea.jpg",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000074/03922cc9e334a0ff238f6704230fd0ea.jpg",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000060",
+      "name": "AL-MUKHLISHIN",
+      "listing_address": "Jl. DN. Dt Maso Basa Nan Kuniang",
+      "latitude": -1.801460929468,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000060",
+      "listing_page": 4,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl. DN. Dt Maso Basa Nan Kuniang\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "1"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000060/f268305040f5bad54d1691b76018dd21.jpg",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000060/f268305040f5bad54d1691b76018dd21.jpg",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000048",
+      "name": "NURUL FALAH GULIDIAK",
+      "listing_address": "Jl.Gulidiak",
+      "latitude": -1.801460929468,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000048",
+      "listing_page": 4,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.Gulidiak\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "35"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000053",
+      "name": "KANTUA",
+      "listing_address": "Jl.Anak Aia Kasiak",
+      "latitude": -1.801460929468,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000053",
+      "listing_page": 4,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.Anak Aia Kasiak\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "1"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Gudang",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000053/1ae1bd07a9e1521bec54ba2abc31a924.jpg",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000053/1ae1bd07a9e1521bec54ba2abc31a924.jpg",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.01.000036",
+      "name": "AL-MUNAWWARAH PARAK KOPI",
+      "listing_address": "JL. YOSSUDARSO KEL. KAYU KUBU KEC. GUGUK PANAJNG",
+      "latitude": 0,
+      "longitude": 0,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.01.000036",
+      "listing_page": 4,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "2013",
+      "address": "JL. YOSSUDARSO KEL. KAYU KUBU KEC. GUGUK PANAJNG\nGuguak Panjang, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "1",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "8"
+      },
+      "profile": {
+        "luas_tanah": "300 m2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "240 m2",
+        "daya_tampung_jamaah": "49"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Pengajian Rutin",
+        "Menyelenggarakan kegiatan pendidikan (TPA, Madrasah, Pusat Kegiatan Belajar Masyarakat)"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000036",
+      "name": "AT-TAQWA",
+      "listing_address": "Samping RSAM Cindua Mato Kel.Puhun Tembok",
+      "latitude": -1.801460929468,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000036",
+      "listing_page": 4,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Samping RSAM Cindua Mato Kel.Puhun Tembok\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000041",
+      "name": "FIRDAUS",
+      "listing_address": "Jl.By Pass Kel.Campago Ipuh",
+      "latitude": -1.801460929468,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000041",
+      "listing_page": 4,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.By Pass Kel.Campago Ipuh\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000052",
+      "name": "AL-FIRDAUS",
+      "listing_address": "Jl.By Pass Koto Bawah Kel.Pulai Anak Air",
+      "latitude": -1.801460929468,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000052",
+      "listing_page": 4,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.By Pass Koto Bawah Kel.Pulai Anak Air\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "25"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000067",
+      "name": "NURUL HIDAYAH",
+      "listing_address": "Jl.Mr.A.Saad Kel.Manggis Ganting",
+      "latitude": -0.95508,
+      "longitude": 100.36955,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000067",
+      "listing_page": 4,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.Mr.A.Saad Kel.Manggis Ganting\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000067/6cf0a0842e9c061c34c79d27293c8051.jpg",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000067/6cf0a0842e9c061c34c79d27293c8051.jpg",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000083",
+      "name": "BELAKANG SANJAI",
+      "listing_address": "Jl.Manggis Kel.Manggis Ganting",
+      "latitude": 0,
+      "longitude": 0,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000083",
+      "listing_page": 4,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "00",
+      "address": "Jl.Manggis Kel.Manggis Ganting\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000047",
+      "name": "NURUL HIDAYAH",
+      "listing_address": "Jl.Mr.Asaad Kel.Manggis Ganting",
+      "latitude": -0.29493889881562,
+      "longitude": 100.38453516279,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000047",
+      "listing_page": 4,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.Mr.Asaad Kel.Manggis Ganting\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000088",
+      "name": "AL- HIDAYAH",
+      "listing_address": "KOMPL.ASPOL KEL.PULAI ANAK AIR",
+      "latitude": -0.30208271089615,
+      "longitude": 100.38480412151,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000088",
+      "listing_page": 4,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "00",
+      "address": "KOMPL.ASPOL KEL.PULAI ANAK AIR\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000062",
+      "name": "NUR HIDAYAH",
+      "listing_address": "jln.By Pass kelurahan Pulai Anak Aia, Kecamatan Mandiangin Koto Selayan, Kota Bukittinggi, Sumatera Barat 26138, Indonesia",
+      "latitude": -0.30730994172035,
+      "longitude": 100.38452478599,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000062",
+      "listing_page": 4,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jln.By Pass Kelurahan Pulai Anak Aia, Kecamatan Mandiangin Koto Selayan, Kota Bukittinggi, Sumatera Barat 26138, Indonesia\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000069",
+      "name": "SURAU INYIAK BANCAH",
+      "listing_address": "JL.KESUMA BHAKTI KEL.KUBU GULAI BANCAH",
+      "latitude": -0.28763553380971,
+      "longitude": 100.37064783275,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000069",
+      "listing_page": 4,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "JL.KESUMA BHAKTI KEL.KUBU GULAI BANCAH\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000085",
+      "name": "AL HIDAYAH KURIMAN",
+      "listing_address": "Jl.Pabidikan Kel.Puhun Pintu Kabun",
+      "latitude": -0.28637056828453,
+      "longitude": 100.34763041213,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000085",
+      "listing_page": 4,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "00",
+      "address": "Jl.Pabidikan Kel.Puhun Pintu Kabun\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Ruang Belajar (TPA/Madrasah)",
+        "Tempat Penitipan Sepatu/Sandal",
+        "Gudang",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin",
+        "Menyelenggarakan kegiatan pendidikan (TPA, Madrasah, Pusat Kegiatan Belajar Masyarakat)"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000084",
+      "name": "BIRRUL WALIDAIN",
+      "listing_address": "Jl.Bahder Johan Jangkak Kel.Campago Ipuh",
+      "latitude": -0.29566470793037,
+      "longitude": 100.37169059783,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000084",
+      "listing_page": 4,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "00",
+      "address": "Jl.Bahder Johan Jangkak Kel.Campago Ipuh\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000086",
+      "name": "INYIAK JANGGUIK",
+      "listing_address": "BELAKANG LOKET ALS KEL.MANGGIS GANTING",
+      "latitude": -0.29680379743754,
+      "longitude": 100.38333661191,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000086",
+      "listing_page": 4,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "00",
+      "address": "BELAKANG LOKET ALS KEL.MANGGIS GANTING\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [],
+      "activities": [],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000023",
+      "name": "RM DANGAU GON RAYA",
+      "listing_address": "Koto Ateh Kel.Pulai Anak Air",
+      "latitude": -0.30672371874606,
+      "longitude": 100.38532886378,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000023",
+      "listing_page": 4,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "2008",
+      "address": "Koto Ateh Kel.Pulai Anak Air\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "30 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000090",
+      "name": "AR-RAUDHAH",
+      "listing_address": "JL. KUSUMA BHAKTI KELURAHAN KUBU GULAI BANCAH",
+      "latitude": 0,
+      "longitude": 0,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000090",
+      "listing_page": 4,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "2020",
+      "address": "JL. KUSUMA BHAKTI KELURAHAN KUBU GULAI BANCAH\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "6",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "3",
+        "jumlah_remaja_masjid": "15"
+      },
+      "profile": {
+        "luas_tanah": "338 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "81 m2",
+        "daya_tampung_jamaah": "80"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Gudang",
+        "Taman",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Pengajian Rutin"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000090/e8aa5e91d0381911615a1755818cf4f7.jpeg",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000090/e8aa5e91d0381911615a1755818cf4f7.jpeg",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.03.000031",
+      "name": "AN-NUR",
+      "listing_address": "BIRUGO PUHUN (DEKAT LAPANGAN BOLA BIRUGO PUHUN)",
+      "latitude": -0.31987739606729,
+      "longitude": 100.37114813886,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.03.000031",
+      "listing_page": 4,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "2012",
+      "address": "BIRUGO PUHUN (DEKAT LAPANGAN BOLA BIRUGO PUHUN)\nAur Birugo Tigo Baleh, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "1",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "2"
+      },
+      "profile": {
+        "luas_tanah": "180 m2",
+        "status_tanah": "BMN",
+        "luas_bangunan": "100 m2",
+        "daya_tampung_jamaah": "50"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC",
+        "Koperasi",
+        "Gudang"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/867/02.1.03.17.03.000031/0a84cef721d3f2892d4a85aff5875f61.jpeg",
+        "https://simas.kemenag.go.id/assets/app/img/application-pdf.png",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/867/02.1.03.17.03.000031/0a84cef721d3f2892d4a85aff5875f61.jpeg",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": [
+        "https://simas.kemenag.go.id/dokumen/mushalla-file/3/73/867/02.1.03.17.03.000031/bd181ba5c26e6b84ab6b6808529e54e5.jpeg"
+      ]
+    },
+    {
+      "simas_id": "02.1.03.17.03.000027",
+      "name": "DARUL WUSTHA",
+      "listing_address": "Kel. Kubu Tanjung Bukittinggi",
+      "latitude": -1.801460929468,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.03.000027",
+      "listing_page": 4,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "1993",
+      "address": "Kel. Kubu Tanjung Bukittinggi\nAur Birugo Tigo Baleh, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "205 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "144 m2",
+        "daya_tampung_jamaah": "200"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Ruang Belajar (TPA/Madrasah)",
+        "Gudang",
+        "Taman",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan kegiatan sosial ekonomi (koperasi masjid)"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.03.000016",
+      "name": "ISTIQAMAH",
+      "listing_address": "RT/RW 001/003 Belakang Balok",
+      "latitude": -0.95508,
+      "longitude": 100.36955,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.03.000016",
+      "listing_page": 5,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "1960",
+      "address": "RT/RW 001/003 Belakang Balok\nAur Birugo Tigo Baleh, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "6",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "132 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "132 m2",
+        "daya_tampung_jamaah": "110"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC",
+        "Perlengkapan Pengurusan Jenazah",
+        "Gudang",
+        "Taman",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.03.000029",
+      "name": "PARAK TALEH",
+      "listing_address": "Jalan Jalan Bermawi batu turak turak Kapalo Koto Kelurahan pakan Labuah Kecamatan Aur Birugo Tigo Baleh Kota Bukittinggi",
+      "latitude": -0.31546657138555,
+      "longitude": 100.39284855196,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.03.000029",
+      "listing_page": 5,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "2019",
+      "address": "Jalan Jalan Bermawi Batu Turak Turak Kapalo Koto Kelurahan Pakan Labuah Kecamatan Aur Birugo Tigo Baleh Kota Bukittinggi\nAur Birugo Tigo Baleh, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "11",
+        "jumlah_imam": "2",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "40"
+      },
+      "profile": {
+        "luas_tanah": "144 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "70 m2",
+        "daya_tampung_jamaah": "50"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC",
+        "Kantor Sekretariat",
+        "Perpustakaan",
+        "Tempat Penitipan Sepatu/Sandal",
+        "Gudang",
+        "Taman",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin",
+        "Pemberdayaan Zakat, Infaq, Shodaqoh dan Wakaf"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/867/02.1.03.17.03.000029/41b43bb551cbcceb56d6c8603d368d3e.jpeg",
+        "https://simas.kemenag.go.id/assets/app/img/application-pdf.png",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/867/02.1.03.17.03.000029/41b43bb551cbcceb56d6c8603d368d3e.jpeg",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": [
+        "https://simas.kemenag.go.id/dokumen/mushalla-file/3/73/867/02.1.03.17.03.000029/af6912b35594f4393e1ddb7074c12365.jpeg"
+      ]
+    },
+    {
+      "simas_id": "02.1.03.17.02.000066",
+      "name": "TUANKU KURAI",
+      "listing_address": "JL.VETERAN",
+      "latitude": -1.801460929468,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000066",
+      "listing_page": 5,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "JL.VETERAN\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000066/4b5b44569ba815689bf3efd927f94820.jpg",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000066/4b5b44569ba815689bf3efd927f94820.jpg",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.01.000015",
+      "name": "ASH-SHABIRIN",
+      "listing_address": "Situpo, Pakan Kurai",
+      "latitude": -0.3062615458189,
+      "longitude": 100.37975312309,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.01.000015",
+      "listing_page": 5,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "1991",
+      "address": "Situpo, Pakan Kurai\nGuguak Panjang, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "21",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "27"
+      },
+      "profile": {
+        "luas_tanah": "270 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "120 m2",
+        "daya_tampung_jamaah": "150"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC",
+        "Kantor Sekretariat",
+        "Perpustakaan",
+        "Perlengkapan Pengurusan Jenazah",
+        "Ruang Belajar (TPA/Madrasah)",
+        "Gudang",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Pengajian Rutin",
+        "Menyelenggarakan kegiatan pendidikan (TPA, Madrasah, Pusat Kegiatan Belajar Masyarakat)"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/865/02.1.03.17.01.000015/848954a5e1f154d34a2d86b0db82ab15.jpg",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/865/02.1.03.17.01.000015/847a2f4c2f9457ccdc6a608e8882c4bc.jpg",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/865/02.1.03.17.01.000015/a009bf5b39844a235a8efe82079ee0af.jpg",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/865/02.1.03.17.01.000015/848954a5e1f154d34a2d86b0db82ab15.jpg",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/865/02.1.03.17.01.000015/847a2f4c2f9457ccdc6a608e8882c4bc.jpg",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/865/02.1.03.17.01.000015/a009bf5b39844a235a8efe82079ee0af.jpg",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000050",
+      "name": "AL-IKHLAS",
+      "listing_address": "Kompl.Ganting Permai",
+      "latitude": -1.801460929468,
+      "longitude": 116.1474609375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000050",
+      "listing_page": 5,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Kompl.Ganting Permai\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000055",
+      "name": "SURAU ITTIHAD",
+      "listing_address": "Kompl.Mahkota Mas",
+      "latitude": -0.3039178,
+      "longitude": 100.383479,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000055",
+      "listing_page": 5,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Kompl.Mahkota Mas\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000055/824590119f168c6225337da6fecceb79.jpg",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/866/02.1.03.17.02.000055/824590119f168c6225337da6fecceb79.jpg",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.02.000034",
+      "name": "AL-MUTTAQIIN",
+      "listing_address": "Jl.Kabun Pulasan Kel.Puhun Pintu Kabun",
+      "latitude": -0.2970360151432,
+      "longitude": 100.36354209241,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.02.000034",
+      "listing_page": 5,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "0",
+      "address": "Jl.Kabun Pulasan Kel.Puhun Pintu Kabun\nMandiangin Koto Selayan, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0 m2",
+        "daya_tampung_jamaah": "0"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.01.000038",
+      "name": "SURAU TARBIYAH",
+      "listing_address": "Jl. Umar Gafar Belakang SMK Gajah Tongga Tangah Sawah Bukittinggi",
+      "latitude": -0.95508,
+      "longitude": 100.36955,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.01.000038",
+      "listing_page": 5,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "1964",
+      "address": "Jl. Umar Gafar Belakang SMK Gajah Tongga Tangah Sawah Bukittinggi\nGuguak Panjang, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "40",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "20"
+      },
+      "profile": {
+        "luas_tanah": "400 m2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "600 m2",
+        "daya_tampung_jamaah": "500"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Kantor Sekretariat",
+        "Perpustakaan",
+        "Aula Serba Guna",
+        "Gudang"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Pengajian Rutin",
+        "Menyelenggarakan kegiatan pendidikan (TPA, Madrasah, Pusat Kegiatan Belajar Masyarakat)"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/assets/app/img/no-photo-mushalla-2.png",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "02.1.03.17.03.000002",
+      "name": "UKHUWAH",
+      "listing_address": "JL.Puding Mas Tabek Gadang",
+      "latitude": -0.32244577669737,
+      "longitude": 100.38812041283,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/musahalla/02.1.03.17.03.000002",
+      "listing_page": 5,
+      "tipologi": "Mushalla di tempat Publik",
+      "founded_year": "1940",
+      "address": "JL.Puding Mas Tabek Gadang\nAur Birugo Tigo Baleh, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "625 m2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "225 m2",
+        "daya_tampung_jamaah": "100"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Perlengkapan Pengurusan Jenazah",
+        "Gudang"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Pengajian Rutin"
+      ],
+      "child_friendly_facilities": [],
+      "disability_facilities": [],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/front/img/logo_simas.png ",
+        "https://simas.kemenag.go.id/assets/front/img/logo-kemenag.png",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/867/02.1.03.17.03.000002/Ukhuwah_Tabek_gadang.jpg",
+        "https://simas.kemenag.go.id/image/mushalla-image/3/73/867/02.1.03.17.03.000002/Ukhuwah_Tabek_gadang.jpg",
+        "https://simas.kemenag.go.id/assets/front/img/logo.png"
+      ],
+      "documents": []
+    }
+  ]
+}

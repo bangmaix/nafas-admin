@@ -1,0 +1,2807 @@
+{
+  "metadata": {
+    "source": "SIMAS Kementerian Agama",
+    "source_url": "https://simas.kemenag.go.id/page/profilmasjid/3/73/0/0/1?page=1",
+    "crawled_at": "2026-06-18T03:31:53.313Z",
+    "filter": {
+      "provinsiId": "3",
+      "kabupatenId": "73",
+      "kecamatanId": "0",
+      "tipologiId": "0",
+      "keyword": "",
+      "delayMs": 250
+    },
+    "pages": 3,
+    "count": 51
+  },
+  "data": [
+    {
+      "simas_id": "01.4.03.17.03.000001",
+      "name": "JAMIK AUR KUNING",
+      "listing_address": "Jl. Prof. M. Yamin, SH, Aur Kuning",
+      "latitude": -0.32123522543304,
+      "longitude": 100.38575595652,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.4.03.17.03.000001",
+      "listing_page": 1,
+      "tipologi": "Masjid Jami",
+      "founded_year": "1920",
+      "address": "Jl. Prof. M. Yamin, SH, Aur Kuning\nAur Birugo Tigo Baleh\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "12",
+        "jumlah_imam": "2",
+        "jumlah_khatib": "2",
+        "jumlah_muazin": "2",
+        "jumlah_remaja_masjid": "80"
+      },
+      "profile": {
+        "luas_tanah": "5.800\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "625\nm2",
+        "daya_tampung_jamaah": "1.000",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC",
+        "Kantor Sekretariat",
+        "Perpustakaan",
+        "Perlengkapan Pengurusan Jenazah",
+        "Ruang Belajar (TPA/Madrasah)",
+        "Tempat Penitipan Sepatu/Sandal",
+        "Gudang",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin",
+        "Menyelenggarakan kegiatan pendidikan (TPA, Madrasah, Pusat Kegiatan Belajar Masyarakat)",
+        "Pemberdayaan Zakat, Infaq, Shodaqoh dan Wakaf"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png"
+      ],
+      "documents": [
+        "https://simas.kemenag.go.id/dokumen/masjid-file/3/73/867/01.4.03.17.03.000001/masjid-jamik-aur-kuning-1.jpg"
+      ]
+    },
+    {
+      "simas_id": "01.6.03.17.01.000025",
+      "name": "RAYA",
+      "listing_address": "Jl. Minagkabau Pasar Atas",
+      "latitude": -0.30287363140378,
+      "longitude": 100.36968290806,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.01.000025",
+      "listing_page": 1,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "1946",
+      "address": "Jl. Minagkabau Pasar Atas\nGuguak Panjang\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0\nm2",
+        "daya_tampung_jamaah": "0",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC",
+        "Kantor Sekretariat",
+        "Ruang Belajar (TPA/Madrasah)",
+        "Tempat Penitipan Sepatu/Sandal"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin",
+        "Menyelenggarakan kegiatan pendidikan (TPA, Madrasah, Pusat Kegiatan Belajar Masyarakat)",
+        "Pemberdayaan Zakat, Infaq, Shodaqoh dan Wakaf"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.01.000028",
+      "name": "IKHWAN",
+      "listing_address": "Jl. Panorama",
+      "latitude": -0.30714632982103,
+      "longitude": 100.36441907287,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.01.000028",
+      "listing_page": 1,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "1964",
+      "address": "Jl. Panorama\nGuguak Panjang\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0\nm2",
+        "daya_tampung_jamaah": "0",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu"
+      ],
+      "activities": [],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.01.000030",
+      "name": "AL-ABRAR",
+      "listing_address": "Komp. RSAM",
+      "latitude": -0.29961345140824,
+      "longitude": 100.36625772715,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.01.000030",
+      "listing_page": 1,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "1973",
+      "address": "Komp. RSAM\nGuguak Panjang\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0\nm2",
+        "daya_tampung_jamaah": "0",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu"
+      ],
+      "activities": [],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.01.000031",
+      "name": "NUR IMAN",
+      "listing_address": "Bukik Apik Lapau Batu",
+      "latitude": -0.29354905807484,
+      "longitude": 100.35105630755,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.01.000031",
+      "listing_page": 1,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "2008",
+      "address": "Bukik Apik Lapau Batu\nGuguak Panjang\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0\nm2",
+        "daya_tampung_jamaah": "0",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Sound System dan Multimedia",
+        "Ruang Belajar (TPA/Madrasah)"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan kegiatan pendidikan (TPA, Madrasah, Pusat Kegiatan Belajar Masyarakat)",
+        "Pemberdayaan Zakat, Infaq, Shodaqoh dan Wakaf"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.01.000032",
+      "name": "DARUL IKHLAS",
+      "listing_address": "Jl. Pemuda",
+      "latitude": -0.29936937372236,
+      "longitude": 100.37052512169,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.01.000032",
+      "listing_page": 1,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "2006",
+      "address": "Jl. Pemuda\nGuguak Panjang\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0\nm2",
+        "daya_tampung_jamaah": "0",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu"
+      ],
+      "activities": [],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.01.000033",
+      "name": "NURUL IKHLAS",
+      "listing_address": "Jl. By Pass Pasar Sayur",
+      "latitude": -0.31318255276003,
+      "longitude": 100.38794606924,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.01.000033",
+      "listing_page": 1,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "2000",
+      "address": "Jl. By Pass Pasar Sayur\nGuguak Panjang\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "4",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "20"
+      },
+      "profile": {
+        "luas_tanah": "0\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0\nm2",
+        "daya_tampung_jamaah": "0",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Pemberdayaan Zakat, Infaq, Shodaqoh dan Wakaf"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.01.000035",
+      "name": "MUBARAK",
+      "listing_address": "Jl. Stasiun",
+      "latitude": -0.29113644247137,
+      "longitude": 100.35461425781,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.01.000035",
+      "listing_page": 1,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "1970",
+      "address": "Jl. Stasiun\nGuguak Panjang\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0\nm2",
+        "daya_tampung_jamaah": "0",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu"
+      ],
+      "activities": [],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.03.000012",
+      "name": "BAITUL AMIN",
+      "listing_address": "Jl. Jendral Sudirman Asrama Polres Bukittinggi",
+      "latitude": -0.31695622966787,
+      "longitude": 100.37407533833,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.03.000012",
+      "listing_page": 1,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "2007",
+      "address": "Jl. Jendral Sudirman Asrama Polres Bukittinggi\nAur Birugo Tigo Baleh\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "7",
+        "jumlah_imam": "2",
+        "jumlah_khatib": "9",
+        "jumlah_muazin": "2",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "625\nm2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "289\nm2",
+        "daya_tampung_jamaah": "300",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC",
+        "Kantor Sekretariat",
+        "Perpustakaan",
+        "Perlengkapan Pengurusan Jenazah",
+        "Ruang Belajar (TPA/Madrasah)",
+        "Tempat Penitipan Sepatu/Sandal",
+        "Gudang",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin",
+        "Pemberdayaan Zakat, Infaq, Shodaqoh dan Wakaf"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.03.000013",
+      "name": "TANGAH JUA",
+      "listing_address": "Gg. Tomat\nAur Kuning\nKec. Aur Birugo Tigo Baleh\nKota Bukittinggi, Sumatera Barat 26181, Indonesia",
+      "latitude": -0.31626302333995,
+      "longitude": 100.38196206093,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/867/01.6.03.17.03.000013/45aee5dbccbbd21e93c79a9d25355a4e.jpg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.03.000013",
+      "listing_page": 1,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "2007",
+      "address": "Gg. Tomat\nAur Kuning\nKec. Aur Birugo Tigo Baleh\nKota Bukittinggi, Sumatera Barat 26181, Indonesia\nAur Birugo Tigo Baleh\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "48",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "1",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "1.476\nm2",
+        "status_tanah": "Girik",
+        "luas_bangunan": "1.072\nm2",
+        "daya_tampung_jamaah": "1.000",
+        "kondisi": "Baik",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "48",
+        "jenis_buku": "Kitab Suci (Al-Quran & Al-Hadist)\n( 0 )"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC",
+        "Kantor Sekretariat",
+        "Perpustakaan",
+        "Perlengkapan Pengurusan Jenazah",
+        "Gudang",
+        "Taman",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas Toilet Anak",
+        "Tempat Penyimpanan ASI"
+      ],
+      "disability_facilities": [
+        "Toilet Khusus Disabilitas",
+        "Tempat Wudhu Disabilitas"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.03.000011",
+      "name": "BAITUSSALAM",
+      "listing_address": "Jl. Komplek Kodim 0304/ Agam-sapiran",
+      "latitude": -0.31435184427932,
+      "longitude": 100.37710891665,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/867/01.6.03.17.03.000011/0794ceead89bd43f8602c5ac22eda33c.jpg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.03.000011",
+      "listing_page": 1,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "1968",
+      "address": "Jl. Komplek Kodim 0304/ Agam-sapiran\nAur Birugo Tigo Baleh\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "750\nm2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "270\nm2",
+        "daya_tampung_jamaah": "400",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC",
+        "Perpustakaan",
+        "Perlengkapan Pengurusan Jenazah",
+        "Ruang Belajar (TPA/Madrasah)",
+        "Tempat Penitipan Sepatu/Sandal",
+        "Gudang",
+        "Taman",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin",
+        "Menyelenggarakan kegiatan pendidikan (TPA, Madrasah, Pusat Kegiatan Belajar Masyarakat)"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.02.000029",
+      "name": "BAITURRAHMAN",
+      "listing_address": "Jl. Banto Darano",
+      "latitude": -0.29114348019911,
+      "longitude": 100.38463742571,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/866/01.6.03.17.02.000029/28f3fe669f6e218f7e7952cbd31bc5aa.jpg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.02.000029",
+      "listing_page": 1,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "2017",
+      "address": "Jl. Banto Darano\nMandiangin Koto Selayan\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "4",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "1",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "25"
+      },
+      "profile": {
+        "luas_tanah": "1.144\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "440\nm2",
+        "daya_tampung_jamaah": "120",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Ruang Belajar (TPA/Madrasah)",
+        "Tempat Penitipan Sepatu/Sandal",
+        "Taman",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan kegiatan pendidikan (TPA, Madrasah, Pusat Kegiatan Belajar Masyarakat)"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.02.000025",
+      "name": "DARUSSALAM",
+      "listing_address": "Guguak Randah Kel. Campago Guguak Bulek",
+      "latitude": -0.28532421424415,
+      "longitude": 100.38493331211,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/866/01.6.03.17.02.000025/d0af6bdff7b780258fba578c8731b037.jpg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.02.000025",
+      "listing_page": 1,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "1970",
+      "address": "Guguak Randah Kel. Campago Guguak Bulek\nMandiangin Koto Selayan\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "4",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "5.000\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "500\nm2",
+        "daya_tampung_jamaah": "0",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Pengajian Rutin"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.02.000024",
+      "name": "NURUL HUDA",
+      "listing_address": "Panganak Kel. Puhun Pintu Kabun",
+      "latitude": -0.29381291692048,
+      "longitude": 100.35673622042,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/866/01.6.03.17.02.000024/1999a8476c9dbe3b6f641d11070fe7e6.jpg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.02.000024",
+      "listing_page": 1,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "1975",
+      "address": "Panganak Kel. Puhun Pintu Kabun\nMandiangin Koto Selayan\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "4",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "1.263\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "380\nm2",
+        "daya_tampung_jamaah": "0",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Perlengkapan Pengurusan Jenazah",
+        "Tempat Penitipan Sepatu/Sandal"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.02.000023",
+      "name": "JIHAD",
+      "listing_address": "Talao Campago Guguak Bulek",
+      "latitude": -0.28936654250825,
+      "longitude": 100.38831386716,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/866/01.6.03.17.02.000023/0d4c3a93cdf56055a8269c725f8e45d4.jpg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.02.000023",
+      "listing_page": 1,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "1971",
+      "address": "Talao Campago Guguak Bulek\nMandiangin Koto Selayan\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "4",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "1.320\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "380\nm2",
+        "daya_tampung_jamaah": "0",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Sound System dan Multimedia"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.02.000022",
+      "name": "IHSAN INKORBA",
+      "listing_address": "Komp. Inkorba Kel. Campago Guguak Bulek",
+      "latitude": -0.29233166201733,
+      "longitude": 100.38365914262,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/866/01.6.03.17.02.000022/69beba2c2a1fd93e952ab4a7b277a37d.jpg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.02.000022",
+      "listing_page": 1,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "1991",
+      "address": "Komp. Inkorba Kel. Campago Guguak Bulek\nMandiangin Koto Selayan\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "4",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "251\nm2",
+        "status_tanah": "Girik",
+        "luas_bangunan": "500\nm2",
+        "daya_tampung_jamaah": "0",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Sound System dan Multimedia"
+      ],
+      "activities": [],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.4.03.17.02.000002",
+      "name": "JAMIK GUNJO",
+      "listing_address": "Gunjo Koto selayan",
+      "latitude": -0.30485139746232,
+      "longitude": 100.39019141346,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/866/01.4.03.17.02.000002/a9fe0ea56225db0912ddc24a442ba923.jpg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.4.03.17.02.000002",
+      "listing_page": 1,
+      "tipologi": "Masjid Jami",
+      "founded_year": "1965",
+      "address": "Gunjo Koto Selayan\nMandiangin Koto Selayan\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "4",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "735\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "400\nm2",
+        "daya_tampung_jamaah": "0",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu"
+      ],
+      "activities": [],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.02.000026",
+      "name": "MUKHLISIN",
+      "listing_address": "Jl. Soekarno hatta-manggis Gantiang",
+      "latitude": -0.2976189208189,
+      "longitude": 100.38159660995,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/866/01.6.03.17.02.000026/51cbd40595b69d1e36af05671f9d9df8.jpg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.02.000026",
+      "listing_page": 1,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "1970",
+      "address": "Jl. Soekarno Hatta-manggis Gantiang\nMandiangin Koto Selayan\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "2",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "2",
+        "jumlah_remaja_masjid": "15"
+      },
+      "profile": {
+        "luas_tanah": "1.159\nm2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "289\nm2",
+        "daya_tampung_jamaah": "400",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC",
+        "Kantor Sekretariat",
+        "Perlengkapan Pengurusan Jenazah",
+        "Ruang Belajar (TPA/Madrasah)"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.02.000021",
+      "name": "ALMUTATHAHIRIN",
+      "listing_address": "Baruah Pulai Kel. Pulai Anak Air",
+      "latitude": -0.30476053891765,
+      "longitude": 100.38734726607,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/866/01.6.03.17.02.000021/3432e45e0ec4c0fb9e3db2a9c13fc462.jpg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.02.000021",
+      "listing_page": 1,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "2010",
+      "address": "Baruah Pulai Kel. Pulai Anak Air\nMandiangin Koto Selayan\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "3",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "1",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "23"
+      },
+      "profile": {
+        "luas_tanah": "655\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "360\nm2",
+        "daya_tampung_jamaah": "0",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.01.000042",
+      "name": "ISHLAH",
+      "listing_address": "BUKIK APIK KOTA BUKITTINGGI",
+      "latitude": -0.95023195246032,
+      "longitude": 100.41219670521,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.01.000042",
+      "listing_page": 1,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "1975",
+      "address": "BUKIK APIK KOTA BUKITTINGGI\nGuguak Panjang\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "5",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "4",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "20"
+      },
+      "profile": {
+        "luas_tanah": "260\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "200\nm2",
+        "daya_tampung_jamaah": "100",
+        "kondisi": "Baik",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC",
+        "Kantor Sekretariat"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.03.000014",
+      "name": "AL-BARKAH",
+      "listing_address": "Jl. Kehakiman No.1 Belakang Balok",
+      "latitude": -0.34606723172846,
+      "longitude": 100.39031982422,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/867/01.6.03.17.03.000014/6fb026dfda09b7840e09179de12caec9.jpg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.03.000014",
+      "listing_page": 2,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "1987",
+      "address": "Jl. Kehakiman No.1 Belakang Balok\nAur Birugo Tigo Baleh\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "7",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "4",
+        "jumlah_muazin": "2",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "500\nm2",
+        "status_tanah": "Girik",
+        "luas_bangunan": "500\nm2",
+        "daya_tampung_jamaah": "300",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC",
+        "Kantor Sekretariat",
+        "Perpustakaan",
+        "Perlengkapan Pengurusan Jenazah",
+        "Ruang Belajar (TPA/Madrasah)",
+        "Tempat Penitipan Sepatu/Sandal",
+        "Gudang"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin",
+        "Menyelenggarakan kegiatan pendidikan (TPA, Madrasah, Pusat Kegiatan Belajar Masyarakat)"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.03.000015",
+      "name": "ISTIQAMAH",
+      "listing_address": "Jl. Kubu Tanjung-Kubu Tanjuang",
+      "latitude": -0.31744438475972,
+      "longitude": 100.40466324994,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/867/01.6.03.17.03.000015/64cbd0b4a49165bf2a8edd4ef5fc8192.jpg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.03.000015",
+      "listing_page": 2,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "2007",
+      "address": "Jl. Kubu Tanjung-Kubu Tanjuang\nAur Birugo Tigo Baleh\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "2",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "400\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "144\nm2",
+        "daya_tampung_jamaah": "300",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Perlengkapan Pengurusan Jenazah",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin",
+        "Pemberdayaan Zakat, Infaq, Shodaqoh dan Wakaf"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.03.000016",
+      "name": "ISTIQAMAH SUMUA",
+      "listing_address": "Jl. Sumua Kelurahan Ladang Cakiah Kec.Aur Birugo Tigo Baleh Kota Bukittiggi",
+      "latitude": -0.3116203,
+      "longitude": 100.3943146,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/867/01.6.03.17.03.000016/35d8d0e4921c8709111d18c27898271c.jpeg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.03.000016",
+      "listing_page": 2,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "2023",
+      "address": "Jl. Sumua Kelurahan Ladang Cakiah Kec.Aur Birugo Tigo Baleh Kota Bukittiggi\nAur Birugo Tigo Baleh\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "1",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "1",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "1"
+      },
+      "profile": {
+        "luas_tanah": "750\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "3.752\nm2",
+        "daya_tampung_jamaah": "300",
+        "kondisi": "Baik",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "20",
+        "jenis_buku": "Kitab Suci (Al-Quran & Al-Hadist)\n( 20 )"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC",
+        "Kantor Sekretariat"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin",
+        "Menyelenggarakan kegiatan sosial ekonomi (koperasi masjid)",
+        "Menyelenggarakan kegiatan pendidikan (TPA, Madrasah, Pusat Kegiatan Belajar Masyarakat)",
+        "Pemberdayaan Zakat, Infaq, Shodaqoh dan Wakaf"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas Toilet Anak",
+        "Ruang Laktasi"
+      ],
+      "disability_facilities": [
+        "Toilet Khusus Disabilitas"
+      ],
+      "photos": [],
+      "documents": [
+        "https://simas.kemenag.go.id/dokumen/masjid-file/3/73/867/01.6.03.17.03.000016/8ce65dcf3a83277edf0ea74177a1a6dc.jpeg",
+        "https://simas.kemenag.go.id/dokumen/masjid-file/3/73/867/01.6.03.17.03.000016/078e0a3a556fd15d27410fd7c70e687a.jpeg"
+      ]
+    },
+    {
+      "simas_id": "01.6.03.17.02.000030",
+      "name": "AL- MUTTAQIN",
+      "listing_address": "Jl.Pabidikan Kelurahan Puhun Tembok Kecamatan Mandiangin Koto Selayan Kota Bukittinggi",
+      "latitude": -0.27578924899996,
+      "longitude": 100.347809885,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.02.000030",
+      "listing_page": 2,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "2021",
+      "address": "Jl.Pabidikan Kelurahan Puhun Tembok Kecamatan Mandiangin Koto Selayan Kota Bukittinggi\nMandiangin Koto Selayan\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "5",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "1",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "35"
+      },
+      "profile": {
+        "luas_tanah": "800\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "800\nm2",
+        "daya_tampung_jamaah": "500",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Kantor Sekretariat",
+        "Ruang Belajar (TPA/Madrasah)",
+        "Tempat Penitipan Sepatu/Sandal",
+        "Gudang",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin",
+        "Menyelenggarakan kegiatan pendidikan (TPA, Madrasah, Pusat Kegiatan Belajar Masyarakat)",
+        "Pemberdayaan Zakat, Infaq, Shodaqoh dan Wakaf",
+        "Unit Pengumpul Zakat (UPZ)"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.03.000017",
+      "name": "NURUL IMAN",
+      "listing_address": "Jl. Diponegoro- Kubu Tanjuang",
+      "latitude": -0.30212262334656,
+      "longitude": 100.35186767578,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/867/01.6.03.17.03.000017/1c9358310828e56d418b386044768dc3.jpeg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.03.000017",
+      "listing_page": 2,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "1981",
+      "address": "Jl. Diponegoro- Kubu Tanjuang\nAur Birugo Tigo Baleh\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "8",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "1",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "2.250\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "312\nm2",
+        "daya_tampung_jamaah": "300",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC",
+        "Perlengkapan Pengurusan Jenazah",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.03.000019",
+      "name": "AL-HANIF",
+      "listing_address": "Jl. Urip Sumoharjo-sapiran",
+      "latitude": -0.30212262334656,
+      "longitude": 100.36560058594,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/867/01.6.03.17.03.000019/b8dda2653f3aa6a0fc8b7e05fe5c81b5.jpg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.03.000019",
+      "listing_page": 2,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "2006",
+      "address": "Jl. Urip Sumoharjo-sapiran\nAur Birugo Tigo Baleh\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "10",
+        "jumlah_imam": "2",
+        "jumlah_khatib": "1",
+        "jumlah_muazin": "2",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "1.200\nm2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "600\nm2",
+        "daya_tampung_jamaah": "700",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC",
+        "Tempat Penitipan Sepatu/Sandal",
+        "Gudang",
+        "Taman",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin",
+        "Menyelenggarakan kegiatan sosial ekonomi (koperasi masjid)"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.4.03.17.01.000043",
+      "name": "JAMIK TAROK",
+      "listing_address": "Jl. Hamka Simp. Bengke",
+      "latitude": -0.31860187370566,
+      "longitude": 100.37109375,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/865/01.4.03.17.01.000043/82ee3fa2a38d2cafb5111539d4238088.jpg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.4.03.17.01.000043",
+      "listing_page": 2,
+      "tipologi": "Masjid Jami",
+      "founded_year": "1830",
+      "address": "Jl. Hamka Simp. Bengke\nGuguak Panjang\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "5",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "4",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "20"
+      },
+      "profile": {
+        "luas_tanah": "2.500\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "1.800\nm2",
+        "daya_tampung_jamaah": "0",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "Kitab Suci (Al-Quran & Al-Hadist)\n( 100 )"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC",
+        "Kantor Sekretariat",
+        "Perlengkapan Pengurusan Jenazah",
+        "Aula Serba Guna",
+        "Ruang Belajar (TPA/Madrasah)",
+        "Tempat Penitipan Sepatu/Sandal",
+        "Gudang",
+        "Taman",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin",
+        "Menyelenggarakan kegiatan pendidikan (TPA, Madrasah, Pusat Kegiatan Belajar Masyarakat)",
+        "Pemberdayaan Zakat, Infaq, Shodaqoh dan Wakaf"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Tempat Wudhu Disabilitas",
+        "Papan Informasi Sarana Disabilitas"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.01.000041",
+      "name": "AQABAH",
+      "listing_address": "TAROK DIPO GUGUK PANJANG",
+      "latitude": -0.29300880399995,
+      "longitude": 100.351964951,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.01.000041",
+      "listing_page": 2,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "1986",
+      "address": "TAROK DIPO GUGUK PANJANG\nGuguak Panjang\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "5",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "4",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "20"
+      },
+      "profile": {
+        "luas_tanah": "350\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "250\nm2",
+        "daya_tampung_jamaah": "0",
+        "kondisi": "Baik",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "Kitab Suci (Al-Quran & Al-Hadist)\n( 0 )"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC",
+        "Perlengkapan Pengurusan Jenazah",
+        "Ruang Belajar (TPA/Madrasah)"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin",
+        "Menyelenggarakan kegiatan pendidikan (TPA, Madrasah, Pusat Kegiatan Belajar Masyarakat)",
+        "Pemberdayaan Zakat, Infaq, Shodaqoh dan Wakaf"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.01.000044",
+      "name": "NURUL YAQIN",
+      "listing_address": "Bukik Cangang",
+      "latitude": -0.30914454663794,
+      "longitude": 100.36973923445,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/865/01.6.03.17.01.000044/8443d20b7575eb127c540e0905617a72.jpeg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.01.000044",
+      "listing_page": 2,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "1950",
+      "address": "Bukik Cangang\nGuguak Panjang\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "25",
+        "jumlah_imam": "2",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "444\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "320\nm2",
+        "daya_tampung_jamaah": "350",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC",
+        "Ruang Belajar (TPA/Madrasah)"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin",
+        "Menyelenggarakan kegiatan pendidikan (TPA, Madrasah, Pusat Kegiatan Belajar Masyarakat)",
+        "Pemberdayaan Zakat, Infaq, Shodaqoh dan Wakaf"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.01.000045",
+      "name": "IJTIHAD",
+      "listing_address": "Jl. Diponegoro aur Kuning",
+      "latitude": -0.31310879311376,
+      "longitude": 100.37109375,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.01.000045",
+      "listing_page": 2,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "1987",
+      "address": "Jl. Diponegoro Aur Kuning\nGuguak Panjang\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "5",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "4",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "15"
+      },
+      "profile": {
+        "luas_tanah": "600\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "600\nm2",
+        "daya_tampung_jamaah": "250",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "Kitab Suci (Al-Quran & Al-Hadist)\n( 50 )"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC",
+        "Perlengkapan Pengurusan Jenazah",
+        "Tempat Penitipan Sepatu/Sandal"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin",
+        "Menyelenggarakan kegiatan pendidikan (TPA, Madrasah, Pusat Kegiatan Belajar Masyarakat)",
+        "Pemberdayaan Zakat, Infaq, Shodaqoh dan Wakaf"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas Toilet Anak"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.01.000046",
+      "name": "DARUL FALAH",
+      "listing_address": "Jl. Simp. Aur Kuning Dalam",
+      "latitude": -0.31310879311376,
+      "longitude": 100.38757324219,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.01.000046",
+      "listing_page": 2,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "1970",
+      "address": "Jl. Simp. Aur Kuning Dalam\nGuguak Panjang\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "8",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "4",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "20"
+      },
+      "profile": {
+        "luas_tanah": "200\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "200\nm2",
+        "daya_tampung_jamaah": "0",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "Kitab Suci (Al-Quran & Al-Hadist)\n( 50 )"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Perlengkapan Pengurusan Jenazah",
+        "Tempat Penitipan Sepatu/Sandal"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin",
+        "Pemberdayaan Zakat, Infaq, Shodaqoh dan Wakaf"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.01.000047",
+      "name": "DARUSSALAM",
+      "listing_address": "Jl. Hamka Gurun Panjang",
+      "latitude": -0.30163495574914,
+      "longitude": 100.37609455802,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/865/01.6.03.17.01.000047/c6c8657b276dd8ec04076aa660f3a42f.jpg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.01.000047",
+      "listing_page": 2,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "1964",
+      "address": "Jl. Hamka Gurun Panjang\nGuguak Panjang\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0\nm2",
+        "daya_tampung_jamaah": "0",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin",
+        "Menyelenggarakan kegiatan pendidikan (TPA, Madrasah, Pusat Kegiatan Belajar Masyarakat)",
+        "Pemberdayaan Zakat, Infaq, Shodaqoh dan Wakaf"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.01.000048",
+      "name": "NURUL HAQ",
+      "listing_address": "Jl. Teuku Umar",
+      "latitude": -0.30287899574686,
+      "longitude": 100.36826536059,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/865/01.6.03.17.01.000048/b5cc6e95958d144feac4c4a0a38bbc44.jpg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.01.000048",
+      "listing_page": 2,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "1969",
+      "address": "Jl. Teuku Umar\nGuguak Panjang\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0\nm2",
+        "daya_tampung_jamaah": "0",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu"
+      ],
+      "activities": [],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.01.000049",
+      "name": "BAITURRAHMAN",
+      "listing_address": "Bukik Apik",
+      "latitude": -0.30039262244602,
+      "longitude": 100.35779669881,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.01.000049",
+      "listing_page": 2,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "1952",
+      "address": "Bukik Apik\nGuguak Panjang\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0\nm2",
+        "daya_tampung_jamaah": "0",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu"
+      ],
+      "activities": [],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.01.000050",
+      "name": "IHSAN",
+      "listing_address": "Jl. Banto Laweh",
+      "latitude": -0.30498584128532,
+      "longitude": 100.36298677325,
+      "image_url": "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.01.000050",
+      "listing_page": 2,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "1954",
+      "address": "Jl. Banto Laweh\nGuguak Panjang\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0\nm2",
+        "daya_tampung_jamaah": "0",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu"
+      ],
+      "activities": [],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [
+        "https://simas.kemenag.go.id/assets/img/no-photo-masjid-2.png"
+      ],
+      "documents": []
+    },
+    {
+      "simas_id": "01.4.03.17.01.000051",
+      "name": "JAMIK AGUNG",
+      "listing_address": "Jl. Syekh Ibrahim Musa Tengah Sawah",
+      "latitude": -0.30486782575998,
+      "longitude": 100.3724616766,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/865/01.4.03.17.01.000051/34bfccbeec693e06294223e668b0e600.jpg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.4.03.17.01.000051",
+      "listing_page": 2,
+      "tipologi": "Masjid Jami",
+      "founded_year": "1976",
+      "address": "Jl. Syekh Ibrahim Musa Tengah Sawah\nGuguak Panjang\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "4",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "25"
+      },
+      "profile": {
+        "luas_tanah": "6.529\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "576\nm2",
+        "daya_tampung_jamaah": "0",
+        "kondisi": "Baik",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "8",
+        "jenis_buku": "Kitab Suci (Al-Quran & Al-Hadist)\n( 200 )"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC",
+        "Kantor Sekretariat",
+        "Mobil Ambulance",
+        "Perlengkapan Pengurusan Jenazah",
+        "Aula Serba Guna",
+        "Ruang Belajar (TPA/Madrasah)",
+        "Tempat Penitipan Sepatu/Sandal",
+        "Taman",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan kegiatan pendidikan (TPA, Madrasah, Pusat Kegiatan Belajar Masyarakat)",
+        "Pemberdayaan Zakat, Infaq, Shodaqoh dan Wakaf"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.02.000031",
+      "name": "AL-WUSTHA",
+      "listing_address": "Jl. Soekarno Hatta Kel. Manggis Ganting",
+      "latitude": -0.29637204565457,
+      "longitude": 100.38602896035,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/866/01.6.03.17.02.000031/ad484283a8d81bb12a9fad983fdbc4b7.jpg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.02.000031",
+      "listing_page": 2,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "1977",
+      "address": "Jl. Soekarno Hatta Kel. Manggis Ganting\nMandiangin Koto Selayan\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "5",
+        "jumlah_imam": "2",
+        "jumlah_khatib": "1",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "13"
+      },
+      "profile": {
+        "luas_tanah": "1.085\nm2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "240\nm2",
+        "daya_tampung_jamaah": "300",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC",
+        "Kantor Sekretariat",
+        "Poliklinik",
+        "Mobil Ambulance",
+        "Ruang Belajar (TPA/Madrasah)",
+        "Tempat Penitipan Sepatu/Sandal"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin",
+        "Pemberdayaan Zakat, Infaq, Shodaqoh dan Wakaf"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.02.000032",
+      "name": "TABLIGHIYAH",
+      "listing_address": "Jl. Soekarno Hatta Kel. Garegeh",
+      "latitude": -0.29668313462314,
+      "longitude": 100.39203835095,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/866/01.6.03.17.02.000032/b01e04b360f310d2297d651d5cd24873.jpg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.02.000032",
+      "listing_page": 2,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "1963",
+      "address": "Jl. Soekarno Hatta Kel. Garegeh\nMandiangin Koto Selayan\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "4",
+        "jumlah_imam": "5",
+        "jumlah_khatib": "13",
+        "jumlah_muazin": "3",
+        "jumlah_remaja_masjid": "40"
+      },
+      "profile": {
+        "luas_tanah": "2\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "1.814\nm2",
+        "daya_tampung_jamaah": "2.500",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Mobil Ambulance",
+        "Perlengkapan Pengurusan Jenazah",
+        "Ruang Belajar (TPA/Madrasah)",
+        "Tempat Penitipan Sepatu/Sandal",
+        "Gudang",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin",
+        "Menyelenggarakan kegiatan pendidikan (TPA, Madrasah, Pusat Kegiatan Belajar Masyarakat)",
+        "Pemberdayaan Zakat, Infaq, Shodaqoh dan Wakaf"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.02.000033",
+      "name": "BABURRRAHMAH",
+      "listing_address": "Jl. veteran Kel. Kubu Gulai Bancah",
+      "latitude": -0.28737670389843,
+      "longitude": 100.36565557122,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/866/01.6.03.17.02.000033/6553117257092cd328fe9f5c40f571f8.jpg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.02.000033",
+      "listing_page": 2,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "1991",
+      "address": "Jl. Veteran Kel. Kubu Gulai Bancah\nMandiangin Koto Selayan\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "4",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "1.144\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "440\nm2",
+        "daya_tampung_jamaah": "0",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Sound System dan Multimedia",
+        "Kantor Sekretariat",
+        "Ruang Belajar (TPA/Madrasah)",
+        "Tempat Penitipan Sepatu/Sandal",
+        "Gudang",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.02.000034",
+      "name": "AL-FALAH",
+      "listing_address": "Tembok-Puhun Tembok",
+      "latitude": -0.29704359473205,
+      "longitude": 100.36767594516,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/866/01.6.03.17.02.000034/53288345882b6b4185d3979e66fc8285.jpg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.02.000034",
+      "listing_page": 2,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "1961",
+      "address": "Tembok-Puhun Tembok\nMandiangin Koto Selayan\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "4",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "324\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "144\nm2",
+        "daya_tampung_jamaah": "0",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Sound System dan Multimedia",
+        "Kantor Sekretariat",
+        "Ruang Belajar (TPA/Madrasah)",
+        "Tempat Penitipan Sepatu/Sandal",
+        "Gudang",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Pengajian Rutin"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.02.000035",
+      "name": "MUSLIMIN",
+      "listing_address": "Jl. Pintu kabun Puhun Pintu kabun",
+      "latitude": -0.29246277762826,
+      "longitude": 100.36475401372,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/866/01.6.03.17.02.000035/443f95d095094acb6a23fed80c942c68.jpg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.02.000035",
+      "listing_page": 3,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "1953",
+      "address": "Jl. Pintu Kabun Puhun Pintu Kabun\nMandiangin Koto Selayan\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "4",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "928\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "324\nm2",
+        "daya_tampung_jamaah": "0",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.02.000039",
+      "name": "AL-FURQAN",
+      "listing_address": "Sarojo Kel. Campago Guguak Bulek",
+      "latitude": -0.28959430126193,
+      "longitude": 100.37965417858,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/866/01.6.03.17.02.000039/c6c045675cc260685155d607b6039124.jpg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.02.000039",
+      "listing_page": 3,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "1989",
+      "address": "Sarojo Kel. Campago Guguak Bulek\nMandiangin Koto Selayan\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "2.500\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "467\nm2",
+        "daya_tampung_jamaah": "0",
+        "kondisi": "Baik",
+        "luas_perpustakaan": "12\nm2",
+        "jumlah_pengurus": "5",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.02.000027",
+      "name": "NURUL WATHAN",
+      "listing_address": "Jl. By Pass Gulai Bancah Kel. Kubu Gulai Bancah",
+      "latitude": -0.2856510592496,
+      "longitude": 100.37161242217,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/866/01.6.03.17.02.000027/52285afe0c59d9c44cba27b09552d42a.jpg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.02.000027",
+      "listing_page": 3,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "1992",
+      "address": "Jl. By Pass Gulai Bancah Kel. Kubu Gulai Bancah\nMandiangin Koto Selayan\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "4",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "2.000\nm2",
+        "status_tanah": "Girik",
+        "luas_bangunan": "1.958\nm2",
+        "daya_tampung_jamaah": "0",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Tempat Penitipan Sepatu/Sandal"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.4.03.17.03.000009",
+      "name": "JAMI&#039; BIRUGO BUKITTINGGI",
+      "listing_address": "Jl.Jendral Sudirman",
+      "latitude": -0.31902686317744,
+      "longitude": 100.37664221236,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/867/01.4.03.17.03.000009/ecd18baf502ebd947a7e855e5637fbde.jpg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.4.03.17.03.000009",
+      "listing_page": 3,
+      "tipologi": "Masjid Jami",
+      "founded_year": "1956",
+      "address": "Jl.Jendral Sudirman\nAur Birugo Tigo Baleh\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "7",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "1",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "30"
+      },
+      "profile": {
+        "luas_tanah": "3.203\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "1.800\nm2",
+        "daya_tampung_jamaah": "600",
+        "kondisi": "Kurang Baik",
+        "luas_perpustakaan": "250\nm2",
+        "jumlah_pengurus": "6",
+        "jenis_buku": "Kitab Suci (Al-Quran & Al-Hadist)\n( 100 )"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC",
+        "Kantor Sekretariat",
+        "Perpustakaan",
+        "Perlengkapan Pengurusan Jenazah",
+        "Aula Serba Guna",
+        "Ruang Belajar (TPA/Madrasah)",
+        "Tempat Penitipan Sepatu/Sandal",
+        "Gudang",
+        "Taman",
+        "Parkir",
+        "Internet Akses",
+        "Perkantoran"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin",
+        "Menyelenggarakan kegiatan pendidikan (TPA, Madrasah, Pusat Kegiatan Belajar Masyarakat)",
+        "Pemberdayaan Zakat, Infaq, Shodaqoh dan Wakaf",
+        "Unit Pengumpul Zakat (UPZ)",
+        "Melaksanakan Bimbingan Mualaf",
+        "Melaksanakan Bimbingan Manasik Haji"
+      ],
+      "child_friendly_facilities": [
+        "Tempat Penyimpanan ASI",
+        "Tempat Bermain Anak",
+        "Pojok Baca Anak"
+      ],
+      "disability_facilities": [
+        "Toilet Khusus Disabilitas",
+        "Tempat Wudhu Disabilitas",
+        "Kursi Shalat Lansia"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.4.03.17.02.000038",
+      "name": "JAMIK MANDIANGIN",
+      "listing_address": "Jl. H. Miskin By Pass- Campago Ipuh",
+      "latitude": -0.29084944980817,
+      "longitude": 100.37480056286,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/866/01.4.03.17.02.000038/7dafc18b6195a415e232d712f8948196.jpg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.4.03.17.02.000038",
+      "listing_page": 3,
+      "tipologi": "Masjid Jami",
+      "founded_year": "1967",
+      "address": "Jl. H. Miskin By Pass- Campago Ipuh\nMandiangin Koto Selayan\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "4",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "1",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "3.584\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "400\nm2",
+        "daya_tampung_jamaah": "0",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Ruang Belajar (TPA/Madrasah)",
+        "Tempat Penitipan Sepatu/Sandal",
+        "Gudang",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin",
+        "Menyelenggarakan kegiatan pendidikan (TPA, Madrasah, Pusat Kegiatan Belajar Masyarakat)"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.02.000028",
+      "name": "SYUKRA",
+      "listing_address": "Ipuah Mandiangin Campago Ipuah",
+      "latitude": -0.29725950965394,
+      "longitude": 100.37456519902,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/866/01.6.03.17.02.000028/0be7ac2b4f28693818e9d1f42d7b65c9.jpg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.02.000028",
+      "listing_page": 3,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "1952",
+      "address": "Ipuah Mandiangin Campago Ipuah\nMandiangin Koto Selayan\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "4",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "1",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "30"
+      },
+      "profile": {
+        "luas_tanah": "1.022\nm2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "500\nm2",
+        "daya_tampung_jamaah": "0",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Sound System dan Multimedia",
+        "Kantor Sekretariat",
+        "Ruang Belajar (TPA/Madrasah)",
+        "Tempat Penitipan Sepatu/Sandal",
+        "Gudang",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin",
+        "Menyelenggarakan kegiatan pendidikan (TPA, Madrasah, Pusat Kegiatan Belajar Masyarakat)",
+        "Pemberdayaan Zakat, Infaq, Shodaqoh dan Wakaf"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.02.000036",
+      "name": "BAITUL JALAL",
+      "listing_address": "Jl. Soekarno Hatta Kel. Campago Ipuh",
+      "latitude": -0.30042883177,
+      "longitude": 100.37354394794,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/866/01.6.03.17.02.000036/7adeeb8ea665ba56a9aff8eb6f39fdec.jpg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.02.000036",
+      "listing_page": 3,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "1975",
+      "address": "Jl. Soekarno Hatta Kel. Campago Ipuh\nMandiangin Koto Selayan\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "4",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "810\nm2",
+        "status_tanah": "SHM",
+        "luas_bangunan": "440\nm2",
+        "daya_tampung_jamaah": "0",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Ruang Belajar (TPA/Madrasah)"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.6.03.17.01.000024",
+      "name": "ASY-SYIFA&#39;",
+      "listing_address": "Komp. Yarsi belakang Balok",
+      "latitude": -0.31162555357164,
+      "longitude": 100.37131637335,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/865/01.6.03.17.01.000024/1edf636d10eac3577991e60b9028f882.jpg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.6.03.17.01.000024",
+      "listing_page": 3,
+      "tipologi": "Masjid di Tempat Publik",
+      "founded_year": "1987",
+      "address": "Komp. Yarsi Belakang Balok\nGuguak Panjang\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "35",
+        "jumlah_imam": "2",
+        "jumlah_khatib": "1",
+        "jumlah_muazin": "2",
+        "jumlah_remaja_masjid": "15"
+      },
+      "profile": {
+        "luas_tanah": "0\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0\nm2",
+        "daya_tampung_jamaah": "5.000",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC",
+        "Kantor Sekretariat",
+        "Ruang Belajar (TPA/Madrasah)",
+        "Tempat Penitipan Sepatu/Sandal"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin",
+        "Menyelenggarakan kegiatan pendidikan (TPA, Madrasah, Pusat Kegiatan Belajar Masyarakat)",
+        "Pemberdayaan Zakat, Infaq, Shodaqoh dan Wakaf"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.4.03.17.02.000006",
+      "name": "JAMIK GANSALA",
+      "listing_address": "Anak Aia-Pulai Anak Air",
+      "latitude": -0.30057031634961,
+      "longitude": 100.37823781371,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/866/01.4.03.17.02.000006/1143723717ed33d31df6f5c16845ba60.jpg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.4.03.17.02.000006",
+      "listing_page": 3,
+      "tipologi": "Masjid Jami",
+      "founded_year": "1940",
+      "address": "Anak Aia-Pulai Anak Air\nMandiangin Koto Selayan\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "4",
+        "jumlah_imam": "1",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "1.948\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "525\nm2",
+        "daya_tampung_jamaah": "0",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "Kitab Suci (Al-Quran & Al-Hadist)\n( 0 )"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Perlengkapan Pengurusan Jenazah",
+        "Ruang Belajar (TPA/Madrasah)",
+        "Tempat Penitipan Sepatu/Sandal",
+        "Gudang",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan kegiatan pendidikan (TPA, Madrasah, Pusat Kegiatan Belajar Masyarakat)",
+        "Pemberdayaan Zakat, Infaq, Shodaqoh dan Wakaf"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.4.03.17.03.000020",
+      "name": "BIRUGO",
+      "listing_address": "Jln Jendral Sudirman Birugo",
+      "latitude": null,
+      "longitude": 0,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/867/01.4.03.17.03.000020/e8194f34f3d9c78871bfbfdff2d4af84.jpeg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.4.03.17.03.000020",
+      "listing_page": 3,
+      "tipologi": "Masjid Jami",
+      "founded_year": "1956",
+      "address": "Jln Jendral Sudirman Birugo\nAur Birugo Tigo Baleh\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "0",
+        "jumlah_imam": "0",
+        "jumlah_khatib": "0",
+        "jumlah_muazin": "0",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "0\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "0\nm2",
+        "daya_tampung_jamaah": "0",
+        "kondisi": "Baik",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Kantor Sekretariat",
+        "Perpustakaan",
+        "Mobil Ambulance",
+        "Perlengkapan Pengurusan Jenazah",
+        "Aula Serba Guna",
+        "Ruang Belajar (TPA/Madrasah)",
+        "Tempat Penitipan Sepatu/Sandal",
+        "Gudang",
+        "Taman",
+        "Parkir",
+        "Internet Akses"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin",
+        "Menyelenggarakan kegiatan pendidikan (TPA, Madrasah, Pusat Kegiatan Belajar Masyarakat)",
+        "Melaksanakan Bimbingan Manasik Haji"
+      ],
+      "child_friendly_facilities": [
+        "Ruang Laktasi"
+      ],
+      "disability_facilities": [
+        "Jalur Kursi Roda",
+        "Kursi Shalat Lansia"
+      ],
+      "photos": [],
+      "documents": []
+    },
+    {
+      "simas_id": "01.4.03.17.03.000018",
+      "name": "JAMIK TIGO BALEH",
+      "listing_address": "Jl. Diponegoro-Pakan Labuah",
+      "latitude": -0.31572,
+      "longitude": 100.362455,
+      "image_url": "https://simas.kemenag.go.id/image/masjid-image/3/73/867/01.4.03.17.03.000018/45c30d13afeedd893dad0ec65e76c612.jpeg",
+      "detail_url": "https://simas.kemenag.go.id/profil/masjid/01.4.03.17.03.000018",
+      "listing_page": 3,
+      "tipologi": "Masjid Jami",
+      "founded_year": "1952",
+      "address": "Jl. Diponegoro-Pakan Labuah\nAur Birugo Tigo Baleh\n, Kota Bukittinggi\nSumatera Barat",
+      "summary": {
+        "jumlah_pengurus": "6",
+        "jumlah_imam": "2",
+        "jumlah_khatib": "2",
+        "jumlah_muazin": "1",
+        "jumlah_remaja_masjid": "0"
+      },
+      "profile": {
+        "luas_tanah": "3.131\nm2",
+        "status_tanah": "Wakaf",
+        "luas_bangunan": "1.156\nm2",
+        "daya_tampung_jamaah": "1.000",
+        "kondisi": "-",
+        "luas_perpustakaan": "0\nm2",
+        "jumlah_pengurus": "0",
+        "jenis_buku": "-"
+      },
+      "facilities": [
+        "Sarana Ibadah",
+        "Tempat Wudhu",
+        "Kamar Mandi/WC",
+        "Pembangkit Listrik/Genset",
+        "Sound System dan Multimedia",
+        "Penyejuk Udara/AC",
+        "Kantor Sekretariat",
+        "Perlengkapan Pengurusan Jenazah",
+        "Toko",
+        "Tempat Penitipan Sepatu/Sandal",
+        "Gudang",
+        "Taman",
+        "Parkir"
+      ],
+      "activities": [
+        "Menyelenggarakan Ibadah Sholat Fardhu",
+        "Menyelenggarakan Sholat Jumat",
+        "Menyelenggarakan Kegiatan Hari Besar Islam",
+        "Menyelenggarakan Dakwah Islam/Tabliq Akbar",
+        "Menyelenggarakan Pengajian Rutin",
+        "Pemberdayaan Zakat, Infaq, Shodaqoh dan Wakaf"
+      ],
+      "child_friendly_facilities": [
+        "Fasilitas ramah anak tidak ditemukan"
+      ],
+      "disability_facilities": [
+        "Fasilitas disabilitas tidak ditemukan"
+      ],
+      "photos": [],
+      "documents": []
+    }
+  ]
+}
